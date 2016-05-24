@@ -69,15 +69,15 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Sitecore.Kernel">
-      <HintPath>..\..\..\..\..\inetpub\wwwroot\Aveva\Website\bin\Sitecore.Kernel.dll</HintPath>
+      <HintPath>C:\inetpub\wwwroot\Aveva\Website\bin\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Mvc">
-      <HintPath>..\..\..\..\..\inetpub\wwwroot\Aveva\Website\bin\Sitecore.Mvc.dll</HintPath>
+      <HintPath>C:\inetpub\wwwroot\Aveva\Website\bin\Sitecore.Mvc.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Mvc.Analytics">
-      <HintPath>..\..\..\..\..\inetpub\wwwroot\Aveva\Website\bin\Sitecore.Mvc.Analytics.dll</HintPath>
+      <HintPath>C:\inetpub\wwwroot\Aveva\Website\bin\Sitecore.Mvc.Analytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
@@ -148,8 +148,108 @@
     <Content Include="css\screen\jquery.fancybox.css" />
     <Content Include="css\tc.css" />
     <Content Include="Global.asax" />
+    <Content Include="images\acc_bottom.png" />
+    <Content Include="images\arrow_blue.png" />
+    <Content Include="images\arrow_left.png" />
+    <Content Include="images\arrow_link.gif" />
+    <Content Include="images\arrow_news_left.gif" />
+    <Content Include="images\arrow_news_right.gif" />
+    <Content Include="images\arrow_right.png" />
+    <Content Include="images\avevaworld.png" />
+    <Content Include="images\aveva_icon.png" />
+    <Content Include="images\aveva_logo.png" />
+    <Content Include="images\bg_accordion.png" />
+    <Content Include="images\bg_checkbox.png" />
+    <Content Include="images\bg_content_middle.png" />
+    <Content Include="images\bg_content_middle_lines.png" />
+    <Content Include="images\bg_content_top.png" />
+    <Content Include="images\bg_countrys.png" />
+    <Content Include="images\bg_flash_navi.png" />
+    <Content Include="images\bg_flash_navi_item.png" />
+    <Content Include="images\bg_footer_bottom.png" />
+    <Content Include="images\bg_footer_middle.png" />
+    <Content Include="images\bg_gallery_thumb.png" />
     <Content Include="images\bg_gradient.gif" />
     <None Include="Scripts\jquery-2.2.3.intellisense.js" />
+    <Content Include="images\bg_gray_info_sep.png" />
+    <Content Include="images\bg_header.png" />
+    <Content Include="images\bg_highlightbox_main.png" />
+    <Content Include="images\bg_highlightbox_top.png" />
+    <Content Include="images\bg_hoffice_country_select.png" />
+    <Content Include="images\bg_input.png" />
+    <Content Include="images\bg_input_146.png" />
+    <Content Include="images\bg_input_280.png" />
+    <Content Include="images\bg_input_320.png" />
+    <Content Include="images\bg_input_iframe.png" />
+    <Content Include="images\bg_input_search.png" />
+    <Content Include="images\bg_input_search_result.png" />
+    <Content Include="images\bg_item_countrys_left.png" />
+    <Content Include="images\bg_item_countrys_right.png" />
+    <Content Include="images\bg_navi_item.png" />
+    <Content Include="images\bg_productinfo_gray_box_bottom.png" />
+    <Content Include="images\bg_productinfo_gray_box_top.png" />
+    <Content Include="images\bg_pr_box_download_main.png" />
+    <Content Include="images\bg_pr_box_download_top.png" />
+    <Content Include="images\bg_pr_pipe_main.png" />
+    <Content Include="images\bg_pr_pipe_top.png" />
+    <Content Include="images\bg_select_130.png" />
+    <Content Include="images\bg_select_255.png" />
+    <Content Include="images\bg_select_307.png" />
+    <Content Include="images\bg_select_320.png" />
+    <Content Include="images\bg_select_350.png" />
+    <Content Include="images\bg_textarea.png" />
+    <Content Include="images\bg_wires.png" />
+    <Content Include="images\button_add_to_adress.png" />
+    <Content Include="images\button_left.png" />
+    <Content Include="images\button_left_2.png" />
+    <Content Include="images\button_left_3.png" />
+    <Content Include="images\button_right.png" />
+    <Content Include="images\button_right_2.png" />
+    <Content Include="images\button_right_3.png" />
+    <Content Include="images\button_search.png" />
+    <Content Include="images\button_share.png" />
+    <Content Include="images\favicon.png" />
+    <Content Include="images\forgotten_icon.png" />
+    <Content Include="images\header_product_detail.png" />
+    <Content Include="images\hotabs_bg_bottom.png" />
+    <Content Include="images\hotabs_bg_middle.png" />
+    <Content Include="images\hotabs_tab_first_left.png" />
+    <Content Include="images\hotabs_tab_first_right.png" />
+    <Content Include="images\hotabs_tab_last_left.png" />
+    <Content Include="images\hotabs_tab_last_right.png" />
+    <Content Include="images\hotabs_tab_middle_left.png" />
+    <Content Include="images\hotabs_tab_middle_right.png" />
+    <Content Include="images\ho_round_wrap_bottom.png" />
+    <Content Include="images\ho_round_wrap_main.png" />
+    <Content Include="images\ho_round_wrap_top.png" />
+    <Content Include="images\icon_add_to_adress.png" />
+    <Content Include="images\icon_ebook.png" />
+    <Content Include="images\icon_face.png" />
+    <Content Include="images\icon_footer_world.png" />
+    <Content Include="images\icon_global.png" />
+    <Content Include="images\icon_hdownload.png" />
+    <Content Include="images\icon_home.png" />
+    <Content Include="images\icon_login.png" />
+    <Content Include="images\icon_m.png" />
+    <Content Include="images\icon_mail.png" />
+    <Content Include="images\icon_n.png" />
+    <Content Include="images\icon_p.png" />
+    <Content Include="images\icon_pdf.png" />
+    <Content Include="images\icon_phone.png" />
+    <Content Include="images\icon_print.png" />
+    <Content Include="images\icon_print_page.png" />
+    <Content Include="images\icon_world_community.png" />
+    <Content Include="images\icon_zoom.png" />
+    <Content Include="images\quote_bottom.png" />
+    <Content Include="images\tab_active_left.png" />
+    <Content Include="images\tab_active_left_2.png" />
+    <Content Include="images\tab_active_right.png" />
+    <Content Include="images\tab_active_right_2.png" />
+    <Content Include="images\tab_inaktiv_left_2.png" />
+    <Content Include="images\tab_inaktiv_left_sprite.png" />
+    <Content Include="images\tab_inaktiv_right_2.png" />
+    <Content Include="images\tab_inaktiv_right_sprite.png" />
+    <Content Include="images\ul_bullet.png" />
     <Content Include="Scripts\jquery-2.2.3.js" />
     <Content Include="Scripts\jquery-2.2.3.min.js" />
     <Content Include="Views\web.config" />
