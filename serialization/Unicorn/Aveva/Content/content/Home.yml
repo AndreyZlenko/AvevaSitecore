@@ -1,0 +1,41 @@
+﻿---
+ID: "caa51980-375c-460f-a9a7-dcb06c5e07b1"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "0ebd4240-1d1f-42d1-b966-636402d97e9f"
+Path: /sitecore/content/Home
+DB: master
+SharedFields:
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{C1FF011E-B02A-44E3-8444-9FC89CFC28CE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b7fbe2d-2acd-4f78-a35e-f1d0346a22e7"
+      Hint: Date
+      Value: "© 2007 - 2015"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160524T101022Z
+    - ID: "62b0fd80-2fb0-4f70-838f-588556bcf512"
+      Hint: Logo
+      Value: "<image mediaid=\"{0D8E3214-6956-462C-8678-A297E9D2C071}\" alt=\"logo\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
+    - ID: "6aa922b6-cc64-4c93-bde3-a5fc6baede32"
+      Hint: Information
+      Value: "<span style=\"color: #222222; background-color: #ffffff;\">Worldwide Offices</span>"
+    - ID: "6c01b90b-25b2-4f17-8295-4f2de9a23407"
+      Hint: Contacts
+      Value: "AVEVA Group plc, High Cross, Madingley Road, Cambridge, CB3 0HB, UK +44(0)1223 556655 Reg. No: 2937296"
+    - ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
+      Hint: HeadImage
+      Value: "<image mediaid=\"{0FF1E1C4-F475-4F46-B778-B3D92E6756DF}\" alt=\"AVEVA in the Process Plant Industry\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
+    - ID: "fd754b5f-5bb2-4803-9484-defaae7eb0d6"
+      Hint: Article
+      Value: |
+        <h2 class="blue" style="color: #5780ae; margin: 0px 0px 4px; padding: 0px; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #5780ae; background-color: #a1b8d2;">AVEVA Spotlight</h2>
+        <h2 style="color: #4d4d4d; margin: 0px 0px 4px; padding: 0px; background-color: #a1b8d2;">THE FUTURE OF DECISION SUPPORT IS HERE!</h2>
+        <img alt="AVEVA Engage" src="http://www.aveva.com/~/media/Aveva/English/Products/Images/Engage/AVEVA-Engage_300x200px.png?h=89&amp;w=130&amp;la=en" style="color: #4d4d4d; height: 89px; width: 130px; margin: 3px 10px 0px 0px; padding: 0px; border: 0px solid; background-color: #a1b8d2;">
+        <p style="color: #4d4d4d; margin: 7px 0px 10px; padding: 0px; background-color: #a1b8d2;">AVEVA Engage&trade; revolutionises collaborative decision-making across capital projects and operating assets. Combining instant access to a Digital Asset&rsquo;s rich information with a simple touch-driven interface and Ultra-High Definition (UHD) rendering, AVEVA Engage brings better, faster decisions throughout the asset life cycle.</p>
+        <p style="color: #4d4d4d; margin: 7px 0px 10px; padding: 0px; background-color: #a1b8d2;"><strong style="margin: 0px; padding: 0px;">Learn more about this innovative product:</strong></p>

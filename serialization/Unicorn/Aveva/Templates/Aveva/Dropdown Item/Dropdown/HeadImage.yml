@@ -1,0 +1,21 @@
+﻿---
+ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
+Parent: "09b7abe0-11f4-4ff3-94af-ac0fe96dcdce"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Aveva/Dropdown Item/Dropdown/HeadImage
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160524T094744Z

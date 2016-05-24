@@ -1,0 +1,17 @@
+﻿---
+ID: "504c727f-0a58-471c-b76e-b795c599893e"
+Parent: "21dc592e-e286-4345-9fce-2408ba7e3682"
+Template: "c6a06bbf-b6b9-407c-b9b0-02a4ae4dc389"
+Path: /sitecore/content/Home/About/AVEVA Milestones
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160524T135458Z
+    - ID: "359f846e-0435-411f-b04d-89f07e598d15"
+      Hint: Name
+      Value: AVEVA Milestones

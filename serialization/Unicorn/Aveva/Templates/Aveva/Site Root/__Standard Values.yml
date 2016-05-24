@@ -1,0 +1,39 @@
+﻿---
+ID: "bf8c0b56-50d1-479d-96c8-e6378e83f75c"
+Parent: "0ebd4240-1d1f-42d1-b966-636402d97e9f"
+Template: "0ebd4240-1d1f-42d1-b966-636402d97e9f"
+Path: /sitecore/templates/Aveva/Site Root/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{B1A74225-A7C6-4F8E-9398-AC656504F554}"
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{C1FF011E-B02A-44E3-8444-9FC89CFC28CE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{9D0C6A3A-6AAB-42BD-ADCF-AE7E35DE2137}">
+        <r
+          id="{AD6D4E01-A09A-4583-93DB-EA0F7DC44DA2}"
+          ph="main"
+          uid="{153970D6-0C76-421D-9E9B-B081B8469C49}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160524T095327Z
+    - ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
+      Hint: HeadImage
+      Value: "<image mediaid=\"{0D8E3214-6956-462C-8678-A297E9D2C071}\" alt=\"logo\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"

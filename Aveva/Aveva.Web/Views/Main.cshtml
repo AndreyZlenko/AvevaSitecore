@@ -1,0 +1,25 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Analytics.Extensions
+@using Sitecore.Mvc.Presentation
+@model RenderingModel
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@Html.Sitecore().Field("title", new { DisableWebEdit = true })</title>
+    @Html.Sitecore().VisitorIdentification()
+    <link href="~/css/default.css" rel="stylesheet" />
+    <link href="~/css/default+en.css" rel="stylesheet" />
+    <link href="~/css/flexslider.css" rel="stylesheet" />
+    <link href="~/css/gsc.css" rel="stylesheet" />
+    <link href="~/css/gscb.css" rel="stylesheet" />
+    <link href="~/css/jquery-ui-1.9.0.custom.css" rel="stylesheet" />
+    <link href="~/css/layout.css" rel="stylesheet" />
+    <link href="~/css/tc.css" rel="stylesheet" />
+</head>
+<body>
+    @Html.Sitecore().Placeholder("main")
+</body>
+</html>

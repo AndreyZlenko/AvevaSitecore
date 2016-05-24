@@ -1,0 +1,18 @@
+﻿---
+ID: "62b0fd80-2fb0-4f70-838f-588556bcf512"
+Parent: "ef2c0947-b0a1-47da-bb07-77de5a636420"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Aveva/Site Root/Header/Logo
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160523T150824Z

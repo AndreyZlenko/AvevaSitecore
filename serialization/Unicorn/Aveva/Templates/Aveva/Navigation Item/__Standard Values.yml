@@ -1,0 +1,42 @@
+﻿---
+ID: "31e3d0a0-a301-4985-8db5-64eb86309aa1"
+Parent: "b1a74225-a7c6-4f8e-9398-ac656504f554"
+Template: "b1a74225-a7c6-4f8e-9398-ac656504f554"
+Path: /sitecore/templates/Aveva/Navigation Item/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{C6A06BBF-B6B9-407C-B9B0-02A4AE4DC389}"
+- ID: "6fd695e7-7f6d-4ca5-8b49-a829e5950ae9"
+  Hint: __Subitems Sorting
+  Value: "{C1FF011E-B02A-44E3-8444-9FC89CFC28CE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{9B27FC46-548D-4FA5-AAD5-24A130AC495C}">
+        <r
+          id="{ADE8A9F3-DD69-49C9-8A3C-D50563E3849A}"
+          ph="AjaxMain"
+          uid="{58F70D31-197D-4795-AF63-31B86271CDDA}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160524T095254Z
+    - ID: "359f846e-0435-411f-b04d-89f07e598d15"
+      Hint: Name
+      Value: $name
+    - ID: "b816c9fe-5193-42f4-a3c7-a2ecaa7e1955"
+      Hint: Name
+      Value: $name
