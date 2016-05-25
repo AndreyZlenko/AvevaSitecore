@@ -21,9 +21,21 @@ SharedFields:
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
         l="{9B27FC46-548D-4FA5-AAD5-24A130AC495C}">
         <r
-          id="{ADE8A9F3-DD69-49C9-8A3C-D50563E3849A}"
-          ph="AjaxMain"
-          uid="{58F70D31-197D-4795-AF63-31B86271CDDA}" />
+          id="{06A313B2-6B64-476E-9487-47A0BEFDEB07}"
+          ph="header-content"
+          uid="{F0C23F50-5209-4AA9-AD6F-B9757E04E88F}" />
+        <r
+          id="{887C736D-2751-4ECE-AAEF-35221DCA13FB}"
+          ph="left-column"
+          uid="{CCAB17DD-56DB-4EE2-8BBE-157A34B6060A}" />
+        <r
+          id="{1F9AAD6C-1B47-48C2-93DC-249E85E577CE}"
+          ph="right-column"
+          uid="{AA47E670-6BC1-42FE-8B84-B26AFC18D30A}" />
+        <r
+          id="{0BE1E15F-D20B-4E66-823E-76FA9BC3625A}"
+          ph="central-column"
+          uid="{EEAFB50B-5E5A-482C-BC83-5126F3D7318D}" />
       </d>
     </r>
 Languages:

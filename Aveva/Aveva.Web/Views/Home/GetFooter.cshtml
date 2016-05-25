@@ -1,0 +1,14 @@
+﻿@using Aveva.Models
+@using Sitecore.Mvc.Presentation
+@model FooterModel
+@{
+
+}
+<div class="wrap clearfix">
+    <p style="width:100%;">
+        <span class="left">@Model.Date</span>
+        <span class="left">&nbsp;</span>
+        <span class="left">@Model.Contacts</span>
+        <a class="worldwide" title="Worldwide Offices information" href="#">@Html.Raw(Model.Information)</a>
+    </p>
+</div>

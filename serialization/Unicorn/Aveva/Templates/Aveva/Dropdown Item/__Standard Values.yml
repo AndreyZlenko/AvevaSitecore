@@ -12,7 +12,24 @@ SharedFields:
     <r>
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{9B27FC46-548D-4FA5-AAD5-24A130AC495C}" />
+        l="{9B27FC46-548D-4FA5-AAD5-24A130AC495C}">
+        <r
+          id="{06A313B2-6B64-476E-9487-47A0BEFDEB07}"
+          ph="header-content"
+          uid="{DF3DA041-4C99-429A-968C-1FB73518F3F7}" />
+        <r
+          id="{887C736D-2751-4ECE-AAEF-35221DCA13FB}"
+          ph="left-column"
+          uid="{0630532F-3DB4-4308-9744-E4CFD3E968E3}" />
+        <r
+          id="{1F9AAD6C-1B47-48C2-93DC-249E85E577CE}"
+          ph="right-column"
+          uid="{6CF26826-83B6-4286-8ED9-D57CCB44E153}" />
+        <r
+          id="{0BE1E15F-D20B-4E66-823E-76FA9BC3625A}"
+          ph="central-column"
+          uid="{9A1BF3C5-9E32-48E8-99D5-AC370D670E88}" />
+      </d>
     </r>
 Languages:
 - Language: en

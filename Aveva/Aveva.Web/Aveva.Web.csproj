@@ -126,20 +126,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ContentController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\NavigationBarController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="css\at1.css" />
-    <Content Include="css\at2.css" />
-    <Content Include="css\at3.css" />
     <Content Include="css\core\base.css" />
-    <Content Include="css\default+en.css" />
-    <Content Include="css\default.css" />
-    <Content Include="css\gsc.css" />
-    <Content Include="css\gscb.css" />
-    <Content Include="css\jquery\jquery-ui-1.9.0.custom.css" />
     <Content Include="css\layout.css" />
     <Content Include="css\print\print_base.css" />
     <Content Include="css\screen\basemod.css" />
@@ -241,6 +233,7 @@
     <Content Include="images\icon_world_community.png" />
     <Content Include="images\icon_zoom.png" />
     <Content Include="images\quote_bottom.png" />
+    <Content Include="images\search_box_icon.png" />
     <Content Include="images\tab_active_left.png" />
     <Content Include="images\tab_active_left_2.png" />
     <Content Include="images\tab_active_right.png" />
@@ -250,6 +243,7 @@
     <Content Include="images\tab_inaktiv_right_2.png" />
     <Content Include="images\tab_inaktiv_right_sprite.png" />
     <Content Include="images\ul_bullet.png" />
+    <Content Include="Scripts\global.js" />
     <Content Include="Scripts\jquery-2.2.3.js" />
     <Content Include="Scripts\jquery-2.2.3.min.js" />
     <Content Include="Views\web.config" />
@@ -276,10 +270,15 @@
     <Content Include="App_Config\Include\Unicorn\Serialization.config" />
     <None Include="Properties\PublishProfiles\AvevaSitecore.pubxml" />
     <Content Include="Views\Main.cshtml" />
-    <Content Include="Views\NavigationBar\GetContent.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\AjaxLayout.cshtml" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
+    <Content Include="Views\Home\GetHeader.cshtml" />
+    <Content Include="Views\Home\GetFooter.cshtml" />
+    <Content Include="Views\Content\GetHeader.cshtml" />
+    <Content Include="Views\Content\GetLeftColumn.cshtml" />
+    <Content Include="Views\Content\GetCentralColumn.cshtml" />
+    <Content Include="Views\Content\GetRightColumn.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -6,20 +6,62 @@
     Layout = null;
 }
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-    <title>@Html.Sitecore().Field("title", new { DisableWebEdit = true })</title>
+    <title>AVEVA</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="keywords" content="engineering software, design software, 3D design, IPE, OIM, PDMS" />
+    <meta name="description" content="Engineering &amp; Design software solutions for process plant, power generation, shipbuilding and offshore industries." />
+
     @Html.Sitecore().VisitorIdentification()
-    <link href="~/css/default.css" rel="stylesheet" />
-    <link href="~/css/default+en.css" rel="stylesheet" />
-    <link href="~/css/flexslider.css" rel="stylesheet" />
-    <link href="~/css/gsc.css" rel="stylesheet" />
-    <link href="~/css/gscb.css" rel="stylesheet" />
-    <link href="~/css/jquery-ui-1.9.0.custom.css" rel="stylesheet" />
+
+    <link rel="icon" type="image/png" href="/images/favicon.png" />
     <link href="~/css/layout.css" rel="stylesheet" />
     <link href="~/css/tc.css" rel="stylesheet" />
+
+    <script src="~/Scripts/jquery-2.2.3.min.js"></script>
+    <script src="~/Scripts/global.js"></script>
 </head>
 <body>
-    @Html.Sitecore().Placeholder("main")
+    <div class="page_margins">
+        <div class="page">
+            <div id="header">
+                @Html.Sitecore().Placeholder("header")
+            </div>
+            <div id="main">
+                <div id="header-content">
+                    @Html.Sitecore().Placeholder("header-content")
+                </div>
+                <div id="content" class="content-lines clearfix">
+                    <div class="sep-content"></div>
+                    <div class="col-1">
+                        @Html.Sitecore().Placeholder("left-column")
+                    </div>
+                    <div id="landing" class="col-2">
+                        @Html.Sitecore().Placeholder("central-column")
+                    </div>
+                    <div class="col-3">
+                        @Html.Sitecore().Placeholder("right-column")
+                    </div>
+                </div>
+            </div>
+            <div id="footer">
+                @Html.Sitecore().Placeholder("footer")
+            </div>
+            <div id="footer-bottom"></div>
+            <div id="meta-navi" class="clearfix">
+                <div class="wrap">
+                    <div class="addthis_button button-share" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=xa-4d77853b335fc303"></div>
+                    <ul id="meta" class="clearfix">
+                        <li><a title="Home" href="http://www.aveva.com/en.aspx">Home</a><span>|</span></li>
+                        <li><a title="Website Terms of Use" href="http://www.aveva.com/en/Terms_of_Use.aspx">Terms of Use</a><span>|</span></li>
+                        <li><a title="AVEVA Privacy Policy" href="http://www.aveva.com/en/Privacy_Policy.aspx">Privacy Policy</a><span>|</span></li>
+                        <li><a title="Sitemap" href="http://www.aveva.com/en/Sitemap.aspx">Sitemap</a><span>|</span></li>
+                        <li><a title="Contact AVEVA" href="http://www.aveva.com/en/Contact.aspx">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html>

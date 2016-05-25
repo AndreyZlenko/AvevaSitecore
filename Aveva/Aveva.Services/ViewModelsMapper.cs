@@ -13,35 +13,24 @@ namespace Aveva.Services
 {
     public static class ViewModelsMapper
     {
-        #region Site Root
+        #region Header
 
-        public static RootSiteModel MapRootSiteItem( Item item )
+        public static HeaderModel MapHeader(Item item)
         {
-            RootSiteModel model = new RootSiteModel();
+            HeaderModel model = new HeaderModel();
 
             model.ItemUrl = Sitecore.Links.LinkManager.GetItemUrl(item);
 
             // Header
             ImageField logoImageField = item.Fields[SiteRootItemFields.Logo];
-            if(logoImageField != null && logoImageField.MediaItem != null)
+            if (logoImageField != null && logoImageField.MediaItem != null)
             {
                 model.LogoImageAlt = logoImageField.Alt;
                 model.LogoImageUrl = Sitecore.StringUtil.EnsurePrefix('/', Sitecore.Resources.Media.MediaManager.GetMediaUrl(logoImageField.MediaItem));
             }
-            // Footer
-            model.Date = item[SiteRootItemFields.Date];
-            model.Contacts = item[SiteRootItemFields.Contacts];
-            model.Information = item[SiteRootItemFields.Information];
-            // Content 
-            ImageField headImageField = item.Fields[DropdownItemFields.HeadImage];
-            if (headImageField != null && headImageField.MediaItem != null)
-            {
-                model.HeadImageAlt = headImageField.Alt;
-                model.HeadImageUrl = Sitecore.StringUtil.EnsurePrefix('/', Sitecore.Resources.Media.MediaManager.GetMediaUrl(headImageField.MediaItem));
-            }
-            model.Article = item[DropdownItemFields.Article];
+
             // Navigation Items Links
-            foreach(Item childItem in item.GetChildren())
+            foreach (Item childItem in item.GetChildren())
             {
                 if (childItem.TemplateID == SiteTemplates.NavigationItemTemplaateId)
                 {
@@ -52,7 +41,7 @@ namespace Aveva.Services
             return model;
         }
 
-        public static NavigationItemLinkModel MapNavigationItemLink( Item item )
+        private static NavigationItemLinkModel MapNavigationItemLink(Item item)
         {
             NavigationItemLinkModel model = new NavigationItemLinkModel();
 
@@ -70,7 +59,7 @@ namespace Aveva.Services
             return model;
         }
 
-        public static DropdownItemLinkModel MapDropdownItemLink( Item item )
+        private static DropdownItemLinkModel MapDropdownItemLink(Item item)
         {
             DropdownItemLinkModel model = new DropdownItemLinkModel();
 
@@ -82,45 +71,76 @@ namespace Aveva.Services
 
         #endregion
 
-        #region Navigation Bar
+        #region Footer
 
-        public static NavigationItemModel MapNavigationItem(Item item)
+        public static FooterModel MapFooter(Item item)
         {
-            NavigationItemModel model = new NavigationItemModel();
-            // Navigation
-            model.Name = item[NavigationItemFields.Name];
-            model.Url = Sitecore.Links.LinkManager.GetItemUrl(item);
-            // Content 
-            ImageField headImageField = item.Fields[DropdownItemFields.HeadImage];
-            if (headImageField != null && headImageField.MediaItem != null)
-            {
-                model.HeadImageAlt = headImageField.Alt;
-                model.HeadImageUrl = Sitecore.StringUtil.EnsurePrefix('/', Sitecore.Resources.Media.MediaManager.GetMediaUrl(headImageField.MediaItem));
-            }
-            model.Article = item[DropdownItemFields.Article];
+            FooterModel model = new FooterModel();
+            // Footer
+            model.Date = item[SiteRootItemFields.Date];
+            model.Contacts = item[SiteRootItemFields.Contacts];
+            model.Information = item[SiteRootItemFields.Information];
 
             return model;
         }
 
         #endregion
 
-        #region Dropdown List
+        #region Header of content
 
-        public static DropdownItemModel MapDropdownItem(Item item)
+        public static HeaderContentModel MapHeaderContent(Item item)
         {
-            DropdownItemModel model = new DropdownItemModel();
+            HeaderContentModel model = new HeaderContentModel();
+
             ImageField headImageField = item.Fields[DropdownItemFields.HeadImage];
             if (headImageField != null && headImageField.MediaItem != null)
             {
-                model.HeadImageAlt = headImageField.Alt;
-                model.HeadImageUrl = Sitecore.StringUtil.EnsurePrefix('/', Sitecore.Resources.Media.MediaManager.GetMediaUrl(headImageField.MediaItem));
+                model.ImageAlt = headImageField.Alt;
+                model.ImageUrl = Sitecore.StringUtil.EnsurePrefix('/', Sitecore.Resources.Media.MediaManager.GetMediaUrl(headImageField.MediaItem));
             }
-            model.Article = item[DropdownItemFields.Article];
 
             return model;
         }
 
         #endregion
 
+        #region Content column left
+
+        public static ContentColumnLeftModel MapContentColumnLeft(Item item)
+        {
+            ContentColumnLeftModel model = new ContentColumnLeftModel();
+
+            model.Content = item[DropdownItemFields.LeftColumn];
+
+            return model;
+        }
+
+        #endregion
+
+        #region Content column central
+
+        public static ContentColumnCentralModel MapContentColumnCentral(Item item)
+        {
+            ContentColumnCentralModel model = new ContentColumnCentralModel();
+
+            model.Content = item[DropdownItemFields.CentralColumn];
+
+            return model;
+        }
+
+        #endregion
+
+        #region Content column right
+
+        public static ContentColumnRightModel MapContentColumnRight(Item item)
+        {
+            ContentColumnRightModel model = new ContentColumnRightModel();
+
+            model.Content = item[DropdownItemFields.RightColumn];
+
+            return model;
+        }
+
+        #endregion
     }
 }

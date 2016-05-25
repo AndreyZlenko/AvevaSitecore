@@ -9,12 +9,81 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0e1b6d97-513a-42d3-9364-afd70da58ab2"
+      Hint: RightColumn
+      Value: |
+        <div class="box box-last">
+        <h2 class="blue">Watch the Video</h2>
+        <p><a href="http://www.youtube.com/watch?v=fqFiYKoUHQk" class="fancy-video-640x385"><img height="117" alt="Digital Asset" width="208" src="/~/media/Aveva/English/Images/Corporate Logos/Digital-Asset/video-Digital-Asset.png?la=en"></a></p>
+        </div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160524T134618Z
     - ID: "359f846e-0435-411f-b04d-89f07e598d15"
       Hint: Name
       Value: Digital Asset
+    - ID: "43030e24-de97-43fe-a950-1171330b5669"
+      Hint: LeftColumn
+      Value: |
+        <ul class="left-navi">
+            <li><a href="/en/Digital-Asset/The-Digital-Asset-Solutions.aspx">Solution Suites</a></li>
+            <li><a href="/en/Digital-Asset/The-Digital-Asset-Strategies.aspx">Strategies</a></li>
+            <li><a href="/en/Digital-Asset/Context-Technology.aspx">Context Technology</a></li>
+        </ul>
+        <div class="box">
+        <h2 class="blue">The industry says...</h2>
+        <p><img alt="" width="19" height="18" src="/images/quote_top.png?w=19&amp;h=18&amp;as=1"> The problem is an almost infinite degree of complexity. You need a way to file away pertinent emails, drawings and reports where they can be found easily months or even years later. You need to keep track of the life cycle history of every component throughout your plant. Data storage is no longer a problem, but finding the data you need out of the terabytes that you have accumulated is a constant struggle.<br>
+        <br>
+        <em><strong>- Engineer, Global EPC</strong></em></p>
+        </div>
+        <div class="box">
+        <h2 class="blue">Download the Paper!</h2>
+        <p><a href="/~/media/Aveva/English/Resources/White_Papers/Technology/AVEVA-Business-Paper-The-Digital-Asset-Approach.pdf?la=en" target="_blank" title="Download the Digital Asset Business Paper"><img height="276" alt="The Digital Asset Approach" width="200" src="/~/media/Aveva/English/Images/Thumbnails/White-Papers/Digital-Asset-Approach-Business-Paper-cover-200px.png?h=276&amp;w=200&amp;la=en" style="height: 276px; width: 200px;"></a></p>
+        <p><a href="/~/media/Aveva/English/Resources/White_Papers/Technology/AVEVA-Business-Paper-The-Digital-Asset-Approach.pdf?la=en" target="_blank" class="more" title="Download the Digital Asset Business Paper">Download</a>
+        </p>
+        </div>
+        <div class="box box-last">
+        <h2 class="blue">Download the brochure</h2>
+        <p><a href="/~/media/Aveva/English/Resources/Brochures-business/AVEVA-Digital-Asset-brochure.pdf?la=en" title="Downloads pdf document in a new window" target="_blank"><em><img style="width: 100px; float: left; height: 140px; border: 0px solid; margin-right: 5px;" alt="AVEVA Digital Asset brochure" src="/~/media/Aveva/English/Images/Page Content/The_AVEVA_Solution/Digital-Asset/AVEVA-Digital-Asset-brochure.png?la=en"></em></a>'<em>Accuracy and reliability of information are critical for all applications and for decision making.</em></p>
+        <a class="more" title="Downloads pdf document in a new window" href="/~/media/Aveva/English/Resources/Brochures-business/AVEVA-Digital-Asset-brochure.pdf" target="_blank">Download</a></div>
+    - ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
+      Hint: HeadImage
+      Value: "<image mediaid=\"{2AF258A0-95FD-4CB8-A217-877396DF7A8A}\" alt=\"Digital Asset\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
     - ID: "b816c9fe-5193-42f4-a3c7-a2ecaa7e1955"
       Hint: Name
       Value: Digital Asset
+    - ID: "faa01c3d-f253-4633-a562-b1c1f530d678"
+      Hint: CentralColumn
+      Value: |
+        <div class="lists-interfier-wrap">
+        <h1>AVEVA's Digital Asset Approach</h1>
+        <div style="width: 663px; position: relative;">
+        <p style="width: 439px;">
+        The Digital Asset is the information core of every project and facility. It unifies trusted information that runs through every system, populates every application, and is embedded in every document and model. It removes barriers to information flow and provides access to that information, both for capital project execution and asset life cycle management.</p>
+        <p style="width: 439px;">AVEVA's unique Digital Asset approach builds an integrated information framework that continuously represents the true current state of the physical asset. It provides deep application integration where real-time information sharing between disciplines is critical to success. It is open, enabling data and documents created in almost any software to be easily accessed and validated.
+        </p>
+        <div style="width: 454px; float: left;">
+        <div id="mapster_wrap_0" style="display: block; position: relative; padding: 0px; width: 454px; height: 382px;"><img alt="" class="mapster_el" src="http://www.aveva.com/~/media/Aveva/English/Images/Corporate%20Logos/Digital-Asset/Digital-Asset-454px.png?la=en" style="width: 454px; height: 382px; opacity: 1;"><canvas width="454" height="382" class="mapster_el" style="position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px;"></canvas><canvas width="454" height="382" class="mapster_el" style="position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px;"></canvas><img alt="" id="lifecyle" src="/~/media/Aveva/English/Images/Corporate Logos/Digital-Asset/Digital-Asset-454px.png?la=en" usemap="#life" style="width: 454px; height: 382px; border: 0px; position: absolute; left: 0px; top: 0px; padding: 0px; opacity: 0;"></div>
+        </div>
+        <div style="width: 160px; float: right; padding: 10px;" id="selections">
+        <p style="margin: 0px; text-align: right;"><img src="/~/media/Aveva/English/Images/Page Content/The_AVEVA_Solution/Digital-Asset/click_to_explore_v2.png?la=en" style="width: 208px; height: 173px; border: 0px; margin: 10px 0px;" alt="Click to Explore Digital Asset"></p>
+        </div>
+        </div>
+        <map id="life_map" name="life">
+        <area shape="circle" name="enterpriseassetinformation" coords="356,121,27" href="#" alt="Enterprise Asset &amp; Information Management" title="Enterprise Asset &amp; Information Management">
+        <area shape="circle" name="assetmodifications" coords="270,320,27" href="#" alt="Asset Modifications" title="Asset Modifications">
+        <area shape="circle" name="assetvisualisation" coords="370,198,27" href="#" alt="Asset Visualisation &amp;  Simulation" title="Asset Visualisation &amp; Simulation">
+        <area shape="circle" name="brownfielddata" coords="340,270,27" href="#" alt="Brownfield Data Capture" title="Brownfield Data Capture">
+        <area shape="circle" name="constructionmanagement" coords="227,39,27" href="#" alt="Construction/Production Management" title="Construction/Production Management">
+        <area shape="circle" name="design2" coords="115,273,27" href="#" alt="Design" title="Design">
+        <area shape="circle" name="engineering" coords="185,321,27" href="#" alt="Engineering" title="Engineering">
+        <area shape="circle" name="operationalreadiness" coords="304,62,27" href="#" alt="Operational Readiness" title="Operational Readiness">
+        <area shape="poly" name="ipe" coords="226,68,226,92,235,93,244,94,251,96,258,98,268,103,276,107,283,113,290,119,297,127,301,133,306,141,309,150,313,159,314,168,315,175,314,188,313,201,311,210,308,218,304,226,298,236,292,244,284,250,276,256,265,263,255,267,245,271,235,272,225,273,214,272,203,270,191,266,182,261,172,254,163,246,155,237,148,228,144,218,140,210,138,202,136,193,136,184,136,173,138,163,140,154,145,144,148,137,153,129,159,123,165,117,174,109,185,102,195,98,203,95,211,94,219,93,227,93,226,68,220,67,208,70,196,72,187,75,178,79,169,84,160,90,153,95,145,103,139,109,133,116,127,126,122,136,119,144,116,152,114,162,113,172,112,186,113,194,115,207,118,218,121,227,125,236,130,244,135,252,141,257,146,263,152,269,161,277,169,281,178,286,188,290,198,293,207,295,217,296,230,296,237,296,245,295,254,294,264,290,274,286,284,281,293,275,301,268,309,261,317,251,324,241,330,229,334,220,337,210,339,201,340,190,340,178,339,165,337,155,334,144,329,133,323,123,317,113,310,105,302,97,294,91,285,85,278,80,268,76,258,73,250,70,241,69,234,68,226,68" href="#" alt="Strategies" title="Strategies">
+        <area shape="circle" name="materialmanagement" coords="98,120,27" href="#" alt="Material Management" title="Material Management">
+        <area shape="circle" name="planning" coords="151,61,27" href="#" alt="Planning" title="Planning">
+        <area shape="circle" name="projectinformation" coords="84,199,27" href="#" alt="Project Information Management" title="Project Information Management">
+        </map></div>
+        <div class="lists-interfier-wrap">
+        <p>Built upon the Digital Asset approach, AVEVA&rsquo;s full portfolio of software products and solutions enables our customers to unlock the power of their Digital Assets.</p>
+        <p>For EPCs, this means predictability. It brings more efficient projects, tighter control of costs, improved risk management and a smoother handover to the client. For OOs, it means reliability. Both planned and unplanned downtime can be reduced. They can reduce the compliance burden and be more agile to cope with changes, interruptions and unforeseen circumstances.</p>
+        </div>
