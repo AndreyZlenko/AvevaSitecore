@@ -1,0 +1,25 @@
+﻿---
+ID: "e4d26820-e98d-469a-859f-7ea4a32b5cc1"
+Parent: "59c1440f-a884-4464-8903-38d412a38c0c"
+Template: "59c1440f-a884-4464-8903-38d412a38c0c"
+Path: /sitecore/templates/Aveva/Content/ContentFolder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {F78BCE3B-30F5-4989-8D49-E5E23FAA3593}
+    {0DDA8AD0-27B0-49F1-ACD1-8BCF0D9E9CF2}
+    {59C1440F-A884-4464-8903-38D412A38C0C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T180654Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

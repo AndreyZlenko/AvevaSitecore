@@ -1,0 +1,21 @@
+﻿---
+ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+Parent: "cd9f78b5-0f23-4abc-a87b-73b1d2c4a2d2"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Aveva/Content/Box/Box/Content
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T180135Z

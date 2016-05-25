@@ -1,0 +1,41 @@
+﻿---
+ID: "7decdcdf-680d-45e1-beb6-5fccfbc39ba8"
+Parent: "390c3395-54d5-45a3-abae-785b033bee39"
+Template: "0dda8ad0-27b0-49f1-acd1-8bcf0d9e9cf2"
+Path: /sitecore/content/Site content/Lists/AVEVA World MAGAZINE
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T191053Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "609f6fbc-5e0a-434d-a69c-299392199e2b"
+      Hint: Topic
+      Value: Read AVEVA World Magazine
+    - ID: "d25693a5-813e-4e5b-ba8c-3b96521bdcdb"
+      Hint: Content
+      Value: |
+        <p style="text-align: left;"><img style="float: left; border: 0px solid;" alt="AVEVA World Magazine" src="-/media/C6A688D547F143FFA035B135B8862AE3.ashx">The latest developments and customer successes with AVEVA technology</p>
+        <iframe class="mixedContent" frameborder="0" border="0" width="450" height="345" style="overflow: hidden; border: 0px; width: 450px; height: 345px; background: transparent;" background="transparent" allowtransparency="true" src="http://aveva.uberflip.com/read/embed_mini/49796/452036?miniPop=false&amp;alwaysCover=false&amp;miniTitle=&amp;miniColor=&amp;miniLinkToTitle=false&amp;miniUrl=&amp;miniBg=FFFFFF&amp;hideBg=true&amp;width=450&amp;height=345&amp;sharing=false"></iframe>
+        <table style="width: 100%; border-bottom-width: 0px;">
+            <tbody>
+                <tr>
+                    <td style="text-align: left; width: 50%; vertical-align: top;">
+                    <h2>Cover story</h2>
+                    <p><a href="#" target="_blank" title="Opens e-book in a new window" class="more fancy-document-948x750">ADMA-OPCO<br>
+                    Preparing for the Future</a></p>
+                    </td>
+                    <td style="text-align: left; vertical-align: top;">
+                    <h2>Download the Magazine</h2>
+                    <p><a href="-/media/1AAA6E8991A0442C8D76C355743079A6.ashx" target="_blank" title="Downloads pdf document in a new window" class="download">Download</a></p>
+                    <p><a href="#" class="more">View all issues</a></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>

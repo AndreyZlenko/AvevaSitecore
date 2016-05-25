@@ -1,0 +1,27 @@
+﻿---
+ID: "b786bb1d-85a5-4b14-93ed-5e42986db681"
+Parent: "74bd96a9-966a-46e7-8104-5dd1682acfc3"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Boxes/AVEVA Company Brochure
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p>
+        <img style="width: 100px; height: 158px; float: left; border-width: 0px; border-style: solid;" alt="AVEVA Company Brochure" src="-/media/94F2959E9034419F873DAD4A7EF91576.ashx?w=100&amp;h=158&amp;as=1&amp;la=en" longdesc="AVEVA Company Brochure">AVEVA's history, achievements, and why the world's plant, power, oil &amp; gas&nbsp;and marine industries rely on AVEVA's software solutions.</p>
+        <p>&nbsp;</p>
+        <p><a class="more" title="Downloads pdf document in a new window" href="-/media/1AAA6E8991A0442C8D76C355743079A6.ashx" target="_blank">Download the AVEVA Brochure</a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T190214Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: AVEVA Company Brochure

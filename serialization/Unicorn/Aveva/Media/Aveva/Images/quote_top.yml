@@ -1,0 +1,40 @@
+﻿---
+ID: "18214b36-e71f-40c7-a888-ee7a026db1a6"
+Parent: "37f2b0ab-f125-40ef-8e3f-86997fb26519"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Aveva/Images/quote_top
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/18214B36E71F40C7A888EE7A026DB1A6.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 19
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "a06503e8-8ada-457f-8cb2-7e94d1333e13"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAYAAAC5DOVpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNAay06AAAAG+SURBVDiNjZPfT9NQFMc/1DJKrHEZM9kIhGGymAxDsqgPEp7w2X/XBw1P+CtZp/EHoxNkmy67fdigy0rs+JHrQ1nZXXvR71PPud9+es49p0iNfvZO5d6XX7pjRa9rx1JKKU1S5DQF7751GZ6FWAsmTx8V02w0On0cV9D2fBYzJgmY0xS8+ngEwE61pAV9+uHhNAXeSUC1XGB7cxXjNtD25qq+oinQy60ywA2s0emzW28B8HxjRQsCcNwIVMjZMUiBOa5gfHEFwDNNawBvnBZtzwdIXIEx6X9iWF6yyd6zUkH+KOTDfjeOK6V8EuY0RZywMvPaqmpTvsirzs8QgwDvJIgTvcFIC/t86CnxsfBVWGsmEZ5f8v57l1mJQUB4fqnk6jOVGn/GqgGg5goanb6SOw3ChO/gekVimBgECdPwLMRx1a/6oyQMYLfeits1Uh1A2/N5+/W37jjW+OIqblcLi4DDf8IgahfAKC7Z//WCbvemZRTzetjD5ezNczHLwvydVF9l7UEEq6zl2amWEoZqucDW45U4tjImL56sc/+uWmEhZ1NZj/6EOSmlhGi/eteTzdnWrW1NpreYMZm+pr/hngFah4EtcAAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 580
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 19 x 18
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 18
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T184829Z

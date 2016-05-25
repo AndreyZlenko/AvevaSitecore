@@ -1,0 +1,27 @@
+﻿---
+ID: "efa17a52-9514-4046-9798-f05b5d9a5231"
+Parent: "74bd96a9-966a-46e7-8104-5dd1682acfc3"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Boxes/An exciting future
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p class="small">
+        <a href="http://futureofplantdesign.aveva.com" title="Opens a new window on the future!" target="_blank"><img alt="Discover the future now!" src="-/media/26178D6B449D4FF495070F558CAACF17.ashx" style="border: 0px;"></a></p>
+        <p>AVEVA continues to expand capabilities in engineering and design. At last the key enablers of Lean Construction are here!</p>
+        <p><a class="more" title="Opens a new window on the future!" href="http://futureofplantdesign.aveva.com/" target="_blank">Discover the future now!</a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T183756Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: "An exciting future!"

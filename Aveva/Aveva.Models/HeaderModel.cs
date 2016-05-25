@@ -8,11 +8,11 @@ namespace Aveva.Models
         public string LogoImageUrl;
         public string LogoImageAlt;
         // Navigation Items Links
-        public List<NavigationItemLinkModel> NavigationItems;
+        public List<ItemLinkModel> Items;
 
         public HeaderModel()
         {
-            this.NavigationItems = new List<NavigationItemLinkModel>();
+            this.Items = new List<ItemLinkModel>();
         }
     }
 }

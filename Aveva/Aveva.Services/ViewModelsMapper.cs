@@ -1,13 +1,7 @@
 ﻿using Aveva.Models;
 using Aveva.Services.TemplatesFields;
-using Sitecore.Data;
 using Sitecore.Data.Fields;
 using Sitecore.Data.Items;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Aveva.Services
 {
@@ -34,16 +28,16 @@ namespace Aveva.Services
             {
                 if (childItem.TemplateID == SiteTemplates.NavigationItemTemplaateId)
                 {
-                    model.NavigationItems.Add(MapNavigationItemLink(childItem));
+                    model.Items.Add(MapNavigationItemLink(childItem));
                 }
             }
 
             return model;
         }
 
-        private static NavigationItemLinkModel MapNavigationItemLink(Item item)
+        private static ItemLinkModel MapNavigationItemLink(Item item)
         {
-            NavigationItemLinkModel model = new NavigationItemLinkModel();
+            ItemLinkModel model = new ItemLinkModel();
 
             model.Name = item[NavigationItemFields.Name];
             model.Url = Sitecore.Links.LinkManager.GetItemUrl(item);
@@ -52,16 +46,16 @@ namespace Aveva.Services
             {
                 if (childItem.TemplateID == SiteTemplates.DropdownItemTemplaateId)
                 {
-                    model.DropdownItems.Add(MapDropdownItemLink(childItem));
+                    model.Items.Add(MapDropdownItemLink(childItem));
                 }
             }
 
             return model;
         }
 
-        private static DropdownItemLinkModel MapDropdownItemLink(Item item)
+        private static ItemLinkModel MapDropdownItemLink(Item item)
         {
-            DropdownItemLinkModel model = new DropdownItemLinkModel();
+            ItemLinkModel model = new ItemLinkModel();
 
             model.Name = item[DropdownItemFields.Name];
             model.Url = Sitecore.Links.LinkManager.GetItemUrl(item);

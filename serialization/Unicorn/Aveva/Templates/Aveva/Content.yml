@@ -1,0 +1,17 @@
+﻿---
+ID: "6a0a4f91-d6cb-4fb8-8ec8-d2f451b91861"
+Parent: "012ed80a-18b8-4624-a266-bd4f7220113c"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/templates/Aveva/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T175504Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

@@ -56,13 +56,13 @@
         </div>
     </div>
     <ul id="nav" class="clearfix">
-        @foreach (NavigationItemLinkModel navLink in Model.NavigationItems)
+        @foreach (ItemLinkModel navLink in Model.Items)
         {
             <li>
                 <a href="#" onclick="javascript:LoadMainContent('@navLink.Url')">@navLink.Name</a>
                 <div class="dd">
                     <ul>
-                        @foreach (DropdownItemLinkModel dropLink in navLink.DropdownItems)
+                        @foreach (ItemLinkModel dropLink in navLink.Items)
                         {
                             <li><a href="#" onclick="javascript: LoadMainContent('@dropLink.Url')">@dropLink.Name</a></li>
                         }

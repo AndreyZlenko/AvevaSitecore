@@ -1,0 +1,30 @@
+﻿---
+ID: "278a00f5-3c99-48e0-b304-69f75ac3339c"
+Parent: "390c3395-54d5-45a3-abae-785b033bee39"
+Template: "0dda8ad0-27b0-49f1-acd1-8bcf0d9e9cf2"
+Path: /sitecore/content/Site content/Lists/AVEVA World
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T190759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "609f6fbc-5e0a-434d-a69c-299392199e2b"
+      Hint: Topic
+      Value: AVEVA World
+    - ID: "d25693a5-813e-4e5b-ba8c-3b96521bdcdb"
+      Hint: Content
+      Value: |
+        <h2>Welcome to the AVEVA World Community portal.</h2>
+        <p>On this page we are building a resource centre for the ever-increasing community of AVEVA users. Bookmark&nbsp;this page&nbsp;and check back here frequently!</p>
+        <h2>AVEVA World Summit</h2>
+        <p>The AVEVA World Summit is an annual conference organised by AVEVA to showcase the latest innovative products being developed by AVEVA.</p>
+        <p><a href="world.aveva.com/en/" class="more" title="Opens in new window" target="_blank">Visit the AVEVA World website</a></p>
+        <p>&nbsp;</p>
+        <br>

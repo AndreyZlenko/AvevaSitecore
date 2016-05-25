@@ -43,11 +43,10 @@
     <Compile Include="ContentColumnCentralModel.cs" />
     <Compile Include="ContentColumnLeftModel.cs" />
     <Compile Include="ContentColumnRightModel.cs" />
-    <Compile Include="DropdownItemLinkModel.cs" />
     <Compile Include="FooterModel.cs" />
     <Compile Include="HeaderContentModel.cs" />
     <Compile Include="HeaderModel.cs" />
-    <Compile Include="NavigationItemLinkModel.cs" />
+    <Compile Include="ItemLinkModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

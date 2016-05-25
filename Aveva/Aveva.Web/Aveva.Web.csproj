@@ -270,7 +270,6 @@
     <Content Include="App_Config\Include\Unicorn\Serialization.config" />
     <None Include="Properties\PublishProfiles\AvevaSitecore.pubxml" />
     <Content Include="Views\Main.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\AjaxLayout.cshtml" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
     <Content Include="Views\Home\GetHeader.cshtml" />

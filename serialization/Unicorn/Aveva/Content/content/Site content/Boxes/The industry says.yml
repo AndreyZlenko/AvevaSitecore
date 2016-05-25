@@ -1,0 +1,26 @@
+﻿---
+ID: "85cf4a18-ef03-4246-8a64-6eac57e8e853"
+Parent: "74bd96a9-966a-46e7-8104-5dd1682acfc3"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Boxes/The industry says
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p><img alt="" width="19" height="18" src="-/media/18214B36E71F40C7A888EE7A026DB1A6.ashx?w=19&amp;h=18&amp;as=1"> The problem is an almost infinite degree of complexity. You need a way to file away pertinent emails, drawings and reports where they can be found easily months or even years later. You need to keep track of the life cycle history of every component throughout your plant. Data storage is no longer a problem, but finding the data you need out of the terabytes that you have accumulated is a constant struggle.<br>
+        <br>
+        <em><strong>- Engineer, Global EPC</strong></em></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T184610Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: The industry says...

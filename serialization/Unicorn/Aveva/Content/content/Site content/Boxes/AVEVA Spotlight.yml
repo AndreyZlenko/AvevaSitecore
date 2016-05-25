@@ -1,0 +1,39 @@
+﻿---
+ID: "23816f70-128f-4c25-8842-235d264aca63"
+Parent: "74bd96a9-966a-46e7-8104-5dd1682acfc3"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Boxes/AVEVA Spotlight
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <h2>The Future of Decision Support is here!</h2>
+        <img alt="AVEVA Engage" src="-/media/1D7CF801FB754A4E80A839E5B01C109E.ashx?h=89&amp;w=130&amp;la=en" style="height: 89px; width: 130px; float: left; margin-right: 10px; border-width: 0px; border-style: solid;">
+        <p>AVEVA Engage&trade; revolutionises collaborative decision-making across capital projects and operating assets. Combining instant access to a Digital Asset&rsquo;s rich information with a simple touch-driven interface and Ultra-High Definition (UHD) rendering, AVEVA Engage brings better, faster decisions throughout the asset life cycle. </p>
+        <p><strong>Learn more about this innovative product:</strong></p>
+        <div style="clear: both;">
+        <table style="width: 100%;" cellspacing="0" cellpadding="0" align="left">
+            <tbody>
+                <tr>
+                    <td style="text-align: left; width: 35%; white-space: nowrap; vertical-align: middle;"><a href="#" class="more fancy">More Information</a></td>
+                    <td style="text-align: left; width: 25%; white-space: nowrap; vertical-align: middle;"><a href="#" class="more">Press Release</a></td>
+                    <td style="text-align: left; width: 20%; white-space: nowrap; vertical-align: middle;"><a class="more" title="Opens Future of Decision Support website in a new window" href="#" target="_blank">Website</a></td>
+                    <td style="text-align: left; width: 20%; white-space: nowrap; vertical-align: middle;"><a href="https://www.youtube.com/watch?v=1J2j0EBDWH0" title="Watch the Video" class="more fancy-video-640x385" target="_blank">Future of Decision Support video </a></td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160525T192810Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: AVEVA Spotlight
