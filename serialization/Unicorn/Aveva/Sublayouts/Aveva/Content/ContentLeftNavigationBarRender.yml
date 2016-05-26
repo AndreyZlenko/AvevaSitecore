@@ -1,8 +1,8 @@
 ﻿---
-ID: "887c736d-2751-4ece-aaef-35221dca13fb"
+ID: "3808f368-367d-47f1-a2e1-77d691339d0f"
 Parent: "2f043d0d-4c50-46c2-9ac0-3322951163ab"
 Template: "2a3e91a0-7987-44b5-ab34-35c2d9de83b9"
-Path: /sitecore/layout/Sublayouts/Aveva/Content/ContentLeftColumnRendering
+Path: /sitecore/layout/Sublayouts/Aveva/Content/ContentLeftNavigationBarRendering
 DB: master
 SharedFields:
 - ID: "94069f66-609c-48b0-8281-521c30fb269d"
@@ -10,10 +10,10 @@ SharedFields:
   Value: "-"
 - ID: "ded9e431-3604-4921-a4b3-a6ec7636a5b6"
   Hint: Controller Action
-  Value: LeftColumn
+  Value: LeftNavigationBar
 - ID: "e64ad073-dfcc-4d20-8c0b-fe5aa6226cd7"
   Hint: Controller
-  Value: AsideContent
+  Value: Content
 Languages:
 - Language: en
   Versions:
@@ -21,4 +21,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160525T132550Z
+      Value: 20160526T080329Z

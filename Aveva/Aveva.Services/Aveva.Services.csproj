@@ -46,6 +46,8 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SiteTemplates.cs" />
+    <Compile Include="TemplatesFields\Content\BoxItemFields.cs" />
+    <Compile Include="TemplatesFields\Content\ListItemFields.cs" />
     <Compile Include="TemplatesFields\DropdownItemFields.cs" />
     <Compile Include="TemplatesFields\NavigationItemFields.cs" />
     <Compile Include="TemplatesFields\SiteRootItemFields.cs" />

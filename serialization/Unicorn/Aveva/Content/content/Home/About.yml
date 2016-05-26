@@ -11,20 +11,10 @@ Languages:
     Fields:
     - ID: "0e1b6d97-513a-42d3-9364-afd70da58ab2"
       Hint: RightColumn
+      Type: Treelist
       Value: |
-        <div class="box">
-        <h2 class="blue">AVEVA Company Brochure</h2>
-        <p>
-        <img style="width: 100px; height: 158px; float: left; border-width: 0px; border-style: solid;" alt="AVEVA Company Brochure" src="/~/media/Aveva/English/Images/Thumbnails/Corporate/Publications/Corp_brochure_2011_cover.png?w=100&amp;h=158&amp;as=1&amp;la=en" longdesc="AVEVA Company Brochure">AVEVA's history, achievements, and why the world's plant, power, oil &amp; gas&nbsp;and marine industries rely on AVEVA's software solutions.</p>
-        <p>&nbsp;</p>
-        <a class="more" title="Downloads pdf document in a new window" href="/~/media/Aveva/English/Resources/Brochures-business/AVEVA_Corporate_Brochure.pdf" target="_blank">Download the AVEVA Brochure</a></div>
-        <div class="box box-last">
-        <h2 class="blue">AVEVA&rsquo;s Vision</h2>
-        <p><a href="http://www.youtube.com/watch?v=sM9EjITNx7k" class="fancy-video-640x385"><img title="Watch the Video" style="float: left; border: 0px solid;" alt="Watch the Video" src="/~/media/Aveva/English/Images/Page Content/Promotions/Spotlight/video-aveva-mini.png?la=en"></a></p>
-        <p>Helping our customers deliver success.<br>
-        <br>
-        <a href="http://www.youtube.com/watch?v=sM9EjITNx7k" title="Watch the Video" class="more fancy-video-640x385" target="_blank">Watch the Video</a></p>
-        </div>
+        {EFA17A52-9514-4046-9798-F05B5D9A5231}
+        {557747FA-2D23-4E5C-B0DB-899B9DEE03C4}
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160524T134608Z
@@ -33,27 +23,8 @@ Languages:
       Value: About
     - ID: "43030e24-de97-43fe-a950-1171330b5669"
       Hint: LeftColumn
-      Value: |
-        <ul class="left-navi">
-            <li><a href="/en/About_AVEVA/AVEVA_World.aspx">AVEVA World</a></li>
-            <li><a href="/en/About_AVEVA/Careers.aspx">Careers</a></li>
-            <li><a href="/en/About_AVEVA/Graduates.aspx">Graduate Programme</a></li>
-            <li><a href="/en/About_AVEVA/Partners.aspx">Global Partner Network</a></li>
-            <li><a href="/en/About_AVEVA/Awards.aspx">AVEVA Awards</a></li>
-            <li><a href="/en/About_AVEVA/Industry_Affiliations.aspx">Industry Affiliations</a></li>
-            <li><a href="/en/About_AVEVA/History.aspx">AVEVA Milestones</a></li>
-        </ul>
-        <div class="box box-last">
-        <h2 class="blue">Follow AVEVA!</h2>
-        <div class="block_container" style="margin: 0px 0px 20px; width: 180px;">
-        <div class="row2_container">
-        <div class="row2_box1" style="padding: 0px; width: 63px;"><a href="https://twitter.com/AVEVAGroup" target="_blank"><img style="width: 50px; height: 50px; border: 0px solid;" alt="Follow AVEVA on Twitter" src="/~/media/Aveva/English/Images/Icons/Twitter_128x128.png?h=60&amp;w=60&amp;as=1&amp;la=en"></a></div>
-        <div class="row2_box1" style="padding: 0px; width: 63px;"><a href="http://www.youtube.com/avevagroup" target="_blank"><img style="width: 50px; height: 50px; border: 0px solid;" alt="Follow AVEVA on YouTube" src="/~/media/Aveva/English/Images/Icons/Youtube_128x128.png?h=60&amp;w=60&amp;as=1&amp;la=en"></a></div>
-        <div class="row2_box1" style="padding: 0px; width: 63px;"><a href="http://www.linkedin.com/company/aveva" target="_blank"><img style="width: 50px; height: 50px; border: 0px solid;" alt="Follow AVEVA on LinkedIn" src="/~/media/Aveva/English/Images/Icons/linkedin_60x60.png?la=en"></a></div>
-        </div>
-        <div style="clear: left;">&nbsp;</div>
-        </div>
-        <a class="more" href="/en/Media-Centre/Videos.aspx">Featured AVEVA Videos</a></div>
+      Type: Treelist
+      Value: "{85CF4A18-EF03-4246-8A64-6EAC57E8E853}"
     - ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
       Hint: HeadImage
       Value: "<image mediaid=\"{ED6409FC-8CE2-40D7-B530-8299A80374CF}\" alt=\"12345\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
@@ -62,12 +33,7 @@ Languages:
       Value: About
     - ID: "faa01c3d-f253-4633-a562-b1c1f530d678"
       Hint: CentralColumn
+      Type: Treelist
       Value: |
-        <div class="lists-interfier-wrap">
-        <h1>The AVEVA Vision</h1>
-        <p><strong>Always the leading innovator and our customers' most trusted partner</strong> </p>
-        <p>AVEVA has been the world's leading engineering software provider to the plant, power and marine industries for over 45 years. We have achieved this by&nbsp;continual and visionary technical innovation, working in close partnership with many of the world's leading engineering companies.&nbsp;As a result, AVEVA is trusted to deliver not only the most powerful software tools available, but to put its customers' long-term business interests at the heart of its technology development.</p>
-        <h1>AVEVA's Mission</h1>
-        <p>AVEVA's mission is to enable the creation and management of complex digital assets, allowing our customers to work globally with less risk, shorter lead times and greater business efficiency throughout the lifecycle of their&nbsp;physical assets.</p>
-        </div>
-        <div class="lists-interfier-wrap">&nbsp;</div>
+        {278A00F5-3C99-48E0-B304-69F75AC3339C}
+        {23816F70-128F-4C25-8842-235D264ACA63}

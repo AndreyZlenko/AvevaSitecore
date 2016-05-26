@@ -1,32 +1,28 @@
 ﻿using Aveva.Models;
+using Aveva.Models.Content;
 using Aveva.Services;
+using System.Collections.Generic;
 using System.Web.Mvc;
 
 namespace Aveva.Web.Controllers
 {
     public class ContentController : Controller
     {
-        public ActionResult GetHeader()
+        public ActionResult Header()
         {
             HeaderContentModel model = ViewModelsMapper.MapHeaderContent(Sitecore.Context.Item);
             return View(model);
         }
 
-        public ActionResult GetLeftColumn()
+        public ActionResult LeftNavigationBar()
         {
-            ContentColumnLeftModel model = ViewModelsMapper.MapContentColumnLeft(Sitecore.Context.Item);
+            List<ItemLinkModel> model = ViewModelsMapper.MapLeftNavigationBar(Sitecore.Context.Item);
             return View(model);
         }
 
-        public ActionResult GetCentralColumn()
+        public ActionResult CentralColumn()
         {
-            ContentColumnCentralModel model = ViewModelsMapper.MapContentColumnCentral(Sitecore.Context.Item);
-            return View(model);
-        }
-
-        public ActionResult GetRightColumn()
-        {
-            ContentColumnRightModel model = ViewModelsMapper.MapContentColumnRight(Sitecore.Context.Item);
+            List<BaseModel> model = ViewModelsMapper.MapContentColumn(Sitecore.Context.Item, ViewModelsMapper.Column.CENTAL);
             return View(model);
         }
     }

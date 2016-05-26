@@ -43,6 +43,9 @@
     <Compile Include="ContentColumnCentralModel.cs" />
     <Compile Include="ContentColumnLeftModel.cs" />
     <Compile Include="ContentColumnRightModel.cs" />
+    <Compile Include="Content\BaseModel.cs" />
+    <Compile Include="Content\BoxModel.cs" />
+    <Compile Include="Content\ListModel.cs" />
     <Compile Include="FooterModel.cs" />
     <Compile Include="HeaderContentModel.cs" />
     <Compile Include="HeaderModel.cs" />

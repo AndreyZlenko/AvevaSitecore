@@ -2,7 +2,7 @@
 ID: "e4d26820-e98d-469a-859f-7ea4a32b5cc1"
 Parent: "59c1440f-a884-4464-8903-38d412a38c0c"
 Template: "59c1440f-a884-4464-8903-38d412a38c0c"
-Path: /sitecore/templates/Aveva/Content/ContentFolder/__Standard Values
+Path: /sitecore/templates/Aveva/Content/Content Folder/__Standard Values
 DB: master
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"

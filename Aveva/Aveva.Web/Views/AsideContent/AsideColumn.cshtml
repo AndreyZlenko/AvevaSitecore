@@ -1,0 +1,18 @@
+﻿@using Aveva.Models.Content
+@using Sitecore.Mvc.Presentation
+@model List<BaseModel>
+@{
+
+}
+@foreach (BaseModel contentModel in Model)
+{
+    switch (contentModel.Type)
+    {
+        case ContentType.BOX:
+            @Html.Partial("~/Views/AsideContent/_Box.cshtml", contentModel);
+            break;
+        case ContentType.LIST:
+            @Html.Partial("~/Views/AsideContent/_List.cshtml", contentModel);
+            break;
+    }
+}

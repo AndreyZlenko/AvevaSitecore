@@ -126,6 +126,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AsideContentController.cs" />
     <Compile Include="Controllers\ContentController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -274,10 +275,14 @@
     <Content Include="Scripts\jquery-2.2.3.min.map" />
     <Content Include="Views\Home\GetHeader.cshtml" />
     <Content Include="Views\Home\GetFooter.cshtml" />
-    <Content Include="Views\Content\GetHeader.cshtml" />
-    <Content Include="Views\Content\GetLeftColumn.cshtml" />
-    <Content Include="Views\Content\GetCentralColumn.cshtml" />
-    <Content Include="Views\Content\GetRightColumn.cshtml" />
+    <Content Include="Views\Content\Header.cshtml" />
+    <Content Include="Views\AsideContent\AsideColumn.cshtml" />
+    <Content Include="Views\Content\CentralColumn.cshtml" />
+    <Content Include="Views\Content\LeftNavigationBar.cshtml" />
+    <Content Include="Views\AsideContent\_Box.cshtml" />
+    <Content Include="Views\AsideContent\_List.cshtml" />
+    <Content Include="Views\Content\_Box.cshtml" />
+    <Content Include="Views\Content\_List.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

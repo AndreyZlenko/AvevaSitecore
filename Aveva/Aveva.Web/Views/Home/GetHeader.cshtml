@@ -59,12 +59,12 @@
         @foreach (ItemLinkModel navLink in Model.Items)
         {
             <li>
-                <a href="#" onclick="javascript:LoadMainContent('@navLink.Url')">@navLink.Name</a>
+                <a href="#" onclick="javascript:LoadContent('@navLink.Url', 'main')">@navLink.Name</a>
                 <div class="dd">
                     <ul>
                         @foreach (ItemLinkModel dropLink in navLink.Items)
                         {
-                            <li><a href="#" onclick="javascript: LoadMainContent('@dropLink.Url')">@dropLink.Name</a></li>
+                            <li><a href="#" onclick="javascript: LoadContent('@dropLink.Url', 'main')">@dropLink.Name</a></li>
                         }
                     </ul>
                 </div>
@@ -72,8 +72,8 @@
         }
     </ul>
     <script>
-        function LoadMainContent(url) {
-            var contentDiv = document.getElementById("main");
+        function LoadContent(url, containerId) {
+            var contentDiv = document.getElementById(containerId);
 
             $.ajax({
                 url: url,

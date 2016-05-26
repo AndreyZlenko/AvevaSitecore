@@ -1,0 +1,10 @@
+﻿@using Aveva.Models.Content
+@using Sitecore.Mvc.Presentation
+@model BoxModel
+@{
+
+}
+<div class="box">
+    <h1 class="blue">@Model.Topic</h1>
+    @Html.Raw(Model.Content)
+</div>
