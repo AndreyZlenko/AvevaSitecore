@@ -1,0 +1,25 @@
+﻿---
+ID: "3913522e-d8f8-425e-95c7-637c2440f626"
+Parent: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Info articles/Read the ARC view
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p><a href="-/media/1AAA6E8991A0442C8D76C355743079A6.ashx" title="Downloads pdf document in a new window" target="_blank"><img style="width: 100px; float: left; height: 128px; border: 0px solid; margin-right: 5px;" alt="ARC view - AVEVA’s Approach for the Digital Asset" src="-/media/0A547E70C5B14DB5913FEBD88A4CE367.ashx?la=en"></a><em>'Digital Asset information must be &ldquo;living,&rdquo; that is, it must be current, actionable, and address all the domains of the plant lifecycle.'</em></p>
+        <p><a class="more" title="Downloads pdf document in a new window" href="-/media/1AAA6E8991A0442C8D76C355743079A6.ashx" target="_blank">Download</a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T215950Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: Read the ARC view

@@ -1,9 +1,13 @@
 ﻿---
-ID: "390c3395-54d5-45a3-abae-785b033bee39"
+ID: "968d3b8e-130b-4242-b074-bb2f18d5585e"
 Parent: "3b81e9f8-55ee-4831-81b4-0c86c298e4f4"
 Template: "59c1440f-a884-4464-8903-38d412a38c0c"
-Path: /sitecore/content/Site content/Lists
+Path: /sitecore/content/Site content/Latest News
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
 Languages:
 - Language: en
   Versions:
@@ -11,4 +15,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160525T183445Z
+      Value: 20160526T205344Z

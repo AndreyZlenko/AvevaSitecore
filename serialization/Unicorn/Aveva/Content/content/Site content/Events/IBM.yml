@@ -1,0 +1,25 @@
+﻿---
+ID: "5905d2a3-8591-4fad-bdfe-63d495291491"
+Parent: "fc348594-f1fb-479c-aa9d-b83de85155df"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Events/IBM
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p>Join us at a Lunch &amp; Learn session near you and learn how you can benefit from the Energy Sector&rsquo;s approach to BIM. The session will reference a recent customer presentation which describes how they have utilised the existing expertise within their Energy business to drive forward this BIM approach on their Infrastructure projects.</p>
+        <a class="more" title="See all events" href="#">More Events</a>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T204523Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: "BIM: An Insight from the Energy Sector, UK"

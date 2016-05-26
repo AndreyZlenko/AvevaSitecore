@@ -1,0 +1,27 @@
+﻿---
+ID: "13601e16-bb96-470c-a919-82322c636149"
+Parent: "fc348594-f1fb-479c-aa9d-b83de85155df"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Events/EMEX 2016
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p>Don&rsquo;t miss this opportunity to network with industry leaders from across the globe and learn from real-life examples of how AVEVA Bocad, steel detailing software, and AVEVA FabTrol, steel fabrication management software, are helping leading companies around the world to shorten project schedules, maximize capacity and lower costs. <br>
+        <br>
+        Come and experience AVEVA Fabrication suite of products in action, visit AVEVA at Booth No. 4116 this coming May 2016!</p>
+        <a class="more" title="See all events" href="#">More Events</a>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T204843Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: "AVEVA Showcases the Future of Steel Fabrication at EMEX 2016 - Auckland, New Zealand"

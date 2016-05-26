@@ -1,0 +1,48 @@
+﻿---
+ID: "d813f4de-2b90-44a3-81fe-f5c15f32c6ff"
+Parent: "22481594-1eb0-4b2c-86f5-fe066ba3d162"
+Template: "0dda8ad0-27b0-49f1-acd1-8bcf0d9e9cf2"
+Path: /sitecore/content/Site content/Central articles/AVEVA Digital Asset Approach
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T214421Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "609f6fbc-5e0a-434d-a69c-299392199e2b"
+      Hint: Topic
+      Value: AVEVA's Digital Asset Approach
+    - ID: "d25693a5-813e-4e5b-ba8c-3b96521bdcdb"
+      Hint: Content
+      Value: |
+        <div style="width: 663px; position: relative;">
+        <p style="width: 439px;">
+        The Digital Asset is the information core of every project and facility. It unifies trusted information that runs through every system, populates every application, and is embedded in every document and model. It removes barriers to information flow and provides access to that information, both for capital project execution and asset life cycle management.</p>
+        <p style="width: 439px;">AVEVA's unique Digital Asset approach builds an integrated information framework that continuously represents the true current state of the physical asset. It provides deep application integration where real-time information sharing between disciplines is critical to success. It is open, enabling data and documents created in almost any software to be easily accessed and validated.
+        </p>
+        <div style="width: 454px; float: left;">
+        <div id="mapster_wrap_0" style="display: block; position: relative; padding: 0px; width: 454px; height: 382px;"><img alt="" class="mapster_el" src="http://www.aveva.com/~/media/Aveva/English/Images/Corporate%20Logos/Digital-Asset/Digital-Asset-454px.png?la=en" style="width: 454px; height: 382px; opacity: 1;"><canvas width="454" height="382" class="mapster_el" style="position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px;"></canvas><canvas width="454" height="382" class="mapster_el" style="position: absolute; left: 0px; top: 0px; padding: 0px; border: 0px; opacity: 1;"></canvas><img alt="" id="lifecyle" src="/~/media/Aveva/English/Images/Corporate Logos/Digital-Asset/Digital-Asset-454px.png?la=en" usemap="#life" style="width: 454px; height: 382px; border: 0px; position: absolute; left: 0px; top: 0px; padding: 0px; opacity: 0;"></div>
+        </div>
+        </div>
+        <map id="life_map" name="life">
+        <area shape="circle" name="enterpriseassetinformation" coords="356,121,27" href="#" alt="Enterprise Asset &amp; Information Management" title="Enterprise Asset &amp; Information Management">
+        <area shape="circle" name="assetmodifications" coords="270,320,27" href="#" alt="Asset Modifications" title="Asset Modifications">
+        <area shape="circle" name="assetvisualisation" coords="370,198,27" href="#" alt="Asset Visualisation &amp;  Simulation" title="Asset Visualisation &amp; Simulation">
+        <area shape="circle" name="brownfielddata" coords="340,270,27" href="#" alt="Brownfield Data Capture" title="Brownfield Data Capture">
+        <area shape="circle" name="constructionmanagement" coords="227,39,27" href="#" alt="Construction/Production Management" title="Construction/Production Management">
+        <area shape="circle" name="design2" coords="115,273,27" href="#" alt="Design" title="Design">
+        <area shape="circle" name="engineering" coords="185,321,27" href="#" alt="Engineering" title="Engineering">
+        <area shape="circle" name="operationalreadiness" coords="304,62,27" href="#" alt="Operational Readiness" title="Operational Readiness">
+        <area shape="poly" name="ipe" coords="226,68,226,92,235,93,244,94,251,96,258,98,268,103,276,107,283,113,290,119,297,127,301,133,306,141,309,150,313,159,314,168,315,175,314,188,313,201,311,210,308,218,304,226,298,236,292,244,284,250,276,256,265,263,255,267,245,271,235,272,225,273,214,272,203,270,191,266,182,261,172,254,163,246,155,237,148,228,144,218,140,210,138,202,136,193,136,184,136,173,138,163,140,154,145,144,148,137,153,129,159,123,165,117,174,109,185,102,195,98,203,95,211,94,219,93,227,93,226,68,220,67,208,70,196,72,187,75,178,79,169,84,160,90,153,95,145,103,139,109,133,116,127,126,122,136,119,144,116,152,114,162,113,172,112,186,113,194,115,207,118,218,121,227,125,236,130,244,135,252,141,257,146,263,152,269,161,277,169,281,178,286,188,290,198,293,207,295,217,296,230,296,237,296,245,295,254,294,264,290,274,286,284,281,293,275,301,268,309,261,317,251,324,241,330,229,334,220,337,210,339,201,340,190,340,178,339,165,337,155,334,144,329,133,323,123,317,113,310,105,302,97,294,91,285,85,278,80,268,76,258,73,250,70,241,69,234,68,226,68" href="#" alt="Strategies" title="Strategies">
+        <area shape="circle" name="materialmanagement" coords="98,120,27" href="#" alt="Material Management" title="Material Management">
+        <area shape="circle" name="planning" coords="151,61,27" href="#" alt="Planning" title="Planning">
+        <area shape="circle" name="projectinformation" coords="84,199,27" href="#" alt="Project Information Management" title="Project Information Management">
+        </map>
+        <p>Built upon the Digital Asset approach, AVEVA&rsquo;s full portfolio of software products and solutions enables our customers to unlock the power of their Digital Assets.</p>
+        <p>For EPCs, this means predictability. It brings more efficient projects, tighter control of costs, improved risk management and a smoother handover to the client. For OOs, it means reliability. Both planned and unplanned downtime can be reduced. They can reduce the compliance burden and be more agile to cope with changes, interruptions and unforeseen circumstances.</p>

@@ -1,0 +1,25 @@
+﻿---
+ID: "2ad5b880-5a73-49cb-8c8c-cdb9b6105435"
+Parent: "968d3b8e-130b-4242-b074-bb2f18d5585e"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Latest News/DowAksa selects AVEVA
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p class="news-archiv">DowAksa will improve projects, operations and maintenance with AVEVA&rsquo;s Integrated Engineering &amp; Design</p>
+        <a class="more" title="Go to AVEVA Press Releases" href="#">More news</a>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T205919Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: DowAksa selects AVEVA software to enhance engineering data and increase operational efficiency 

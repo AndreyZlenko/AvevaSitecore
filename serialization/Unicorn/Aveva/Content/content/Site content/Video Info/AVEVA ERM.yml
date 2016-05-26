@@ -1,0 +1,26 @@
+﻿---
+ID: "6a23cfe2-d1a4-44a6-95c0-95ab4fa178f8"
+Parent: "e8a0f984-e6c9-4cc4-b2b4-3b2d20ba37f3"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Video Info/AVEVA ERM
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p>AVEVA Enterprise Resource Management</p>
+        <p>
+        <iframe width="200" height="150" src="http://www.youtube.com/embed/MWYzIfUzoXg?rel=0&amp;wmode=opaque" frameborder="0"></iframe></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T222128Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: AVEVA ERM

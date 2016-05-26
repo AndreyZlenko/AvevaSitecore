@@ -1,0 +1,27 @@
+﻿---
+ID: "19a2e9d3-a537-4eb2-891a-58010c617aec"
+Parent: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Info articles/Quick Product Details
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p style="margin-top: 10px;"><a href="#"><img style="width: 80px; height: 80px; margin-right: 20px; border: 0px solid; float: left;" alt="AVEVA Product Finder" src="-/media/5AD11CDDEE3C41F4BCE65E4AA2C8B351.ashx?la=en"></a>
+        Looking for information about AVEVA's market-leading products?</p>
+        <div style="clear: both;">&nbsp;</div>
+        <p><a class="more" href="#">AVEVA Product Finder</a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T212846Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: Quick Product Details

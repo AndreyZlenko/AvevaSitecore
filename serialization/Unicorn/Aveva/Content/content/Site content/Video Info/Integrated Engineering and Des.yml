@@ -1,0 +1,25 @@
+﻿---
+ID: "088513bb-41a1-4689-ac52-a2e856d7d04e"
+Parent: "e8a0f984-e6c9-4cc4-b2b4-3b2d20ba37f3"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Video Info/Integrated Engineering and Design
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p><iframe height="150" src="http://www.youtube.com/embed/n5s3SOlaRgA?rel=0&amp;wmode=opaque" frameborder="0" width="200"></iframe></p>
+        <a class="more" href="http://www.aveva.com/IEandD">Learn more about IE&amp;D</a>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T220701Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: Integrated Engineering & Design

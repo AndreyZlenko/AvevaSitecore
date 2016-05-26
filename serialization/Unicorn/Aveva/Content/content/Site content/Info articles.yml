@@ -1,0 +1,18 @@
+﻿---
+ID: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
+Parent: "3b81e9f8-55ee-4831-81b4-0c86c298e4f4"
+Template: "59c1440f-a884-4464-8903-38d412a38c0c"
+Path: /sitecore/content/Site content/Info articles
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T211526Z

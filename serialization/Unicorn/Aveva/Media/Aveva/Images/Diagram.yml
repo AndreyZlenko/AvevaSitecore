@@ -1,0 +1,17 @@
+﻿---
+ID: "f0ce77b5-2bc5-48f3-a1c7-10300ef981f9"
+Parent: "37f2b0ab-f125-40ef-8e3f-86997fb26519"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Aveva/Images/Diagram
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T221300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin

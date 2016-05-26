@@ -1,9 +1,13 @@
 ﻿---
 ID: "557747fa-2d23-4e5c-b0db-899b9dee03c4"
-Parent: "74bd96a9-966a-46e7-8104-5dd1682acfc3"
+Parent: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
 Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
-Path: /sitecore/content/Site content/Boxes/Download the Paper
+Path: /sitecore/content/Site content/Info articles/Download the Paper
 DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
 Languages:
 - Language: en
   Versions:

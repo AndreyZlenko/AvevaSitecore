@@ -1,0 +1,25 @@
+﻿---
+ID: "55e21bdf-f7ff-4cba-9371-5e5ad57a8ecf"
+Parent: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Info articles/AVEVA Careers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p><a href="#"><img alt="Current Job Vacancies at AVEVA" src="-/media/F3179850A00C4B3D830C45D8FA573634.ashx" style="border: 0px;"></a></p>
+        <p><a class="more" href="#">Current Job Vacancies at AVEVA</a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T152929Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: AVEVA Careers

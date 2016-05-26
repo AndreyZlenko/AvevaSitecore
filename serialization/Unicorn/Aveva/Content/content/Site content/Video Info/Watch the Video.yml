@@ -1,8 +1,8 @@
 ﻿---
-ID: "55e21bdf-f7ff-4cba-9371-5e5ad57a8ecf"
-Parent: "74bd96a9-966a-46e7-8104-5dd1682acfc3"
+ID: "43f2d17c-5c09-4d88-b386-d25f389eca8c"
+Parent: "e8a0f984-e6c9-4cc4-b2b4-3b2d20ba37f3"
 Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
-Path: /sitecore/content/Site content/Boxes/AVEVA Careers
+Path: /sitecore/content/Site content/Video Info/Watch the Video
 DB: master
 Languages:
 - Language: en
@@ -11,15 +11,13 @@ Languages:
     Fields:
     - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
       Hint: Content
-      Value: |
-        <p><a href="#"><img alt="Current Job Vacancies at AVEVA" src="-/media/F3179850A00C4B3D830C45D8FA573634.ashx" style="border: 0px;"></a></p>
-        <p><a class="more" href="#">Current Job Vacancies at AVEVA</a></p>
+      Value: "<p><a href=\"http://www.youtube.com/watch?v=fqFiYKoUHQk\" class=\"fancy-video-640x385\"><img height=\"117\" alt=\"Digital Asset\" width=\"208\" src=\"-/media/BEACD6E9519A4024A8EE3FCE18CDB75A.ashx?la=en\"></a></p>"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160526T152929Z
+      Value: 20160526T215515Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: sitecore\admin
     - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
       Hint: Topic
-      Value: AVEVA Careers
+      Value: Watch the Video

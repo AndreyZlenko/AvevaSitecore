@@ -9,15 +9,30 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0e1b6d97-513a-42d3-9364-afd70da58ab2"
+      Hint: RightColumn
+      Type: Treelist
+      Value: "{43F2D17C-5C09-4D88-B386-D25F389ECA8C}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160524T134618Z
     - ID: "359f846e-0435-411f-b04d-89f07e598d15"
       Hint: Name
       Value: Digital Asset
+    - ID: "43030e24-de97-43fe-a950-1171330b5669"
+      Hint: LeftColumn
+      Type: Treelist
+      Value: |
+        {85CF4A18-EF03-4246-8A64-6EAC57E8E853}
+        {557747FA-2D23-4E5C-B0DB-899B9DEE03C4}
+        {B786BB1D-85A5-4B14-93ED-5E42986DB681}
     - ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
       Hint: HeadImage
       Value: "<image mediaid=\"{2AF258A0-95FD-4CB8-A217-877396DF7A8A}\" alt=\"Digital Asset\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
     - ID: "b816c9fe-5193-42f4-a3c7-a2ecaa7e1955"
       Hint: Name
       Value: Digital Asset
+    - ID: "faa01c3d-f253-4633-a562-b1c1f530d678"
+      Hint: CentralColumn
+      Type: Treelist
+      Value: "{D813F4DE-2B90-44A3-81FE-F5C15F32C6FF}"

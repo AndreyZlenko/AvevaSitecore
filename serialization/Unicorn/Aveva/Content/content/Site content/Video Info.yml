@@ -1,8 +1,8 @@
 ﻿---
-ID: "74bd96a9-966a-46e7-8104-5dd1682acfc3"
+ID: "e8a0f984-e6c9-4cc4-b2b4-3b2d20ba37f3"
 Parent: "3b81e9f8-55ee-4831-81b4-0c86c298e4f4"
 Template: "59c1440f-a884-4464-8903-38d412a38c0c"
-Path: /sitecore/content/Site content/Boxes
+Path: /sitecore/content/Site content/Video Info
 DB: master
 Languages:
 - Language: en
@@ -11,4 +11,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20160525T183434Z
+      Value: 20160526T220629Z

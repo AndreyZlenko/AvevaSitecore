@@ -1,0 +1,86 @@
+﻿---
+ID: "bc3b4e58-7316-4569-85f4-2d9f3074dbf3"
+Parent: "22481594-1eb0-4b2c-86f5-fe066ba3d162"
+Template: "0dda8ad0-27b0-49f1-acd1-8bcf0d9e9cf2"
+Path: "/sitecore/content/Site content/Central articles/The Digital Asset - Solution Suites"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160526T221025Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "609f6fbc-5e0a-434d-a69c-299392199e2b"
+      Hint: Topic
+      Value: "The Digital Asset - Solution Suites"
+    - ID: "d25693a5-813e-4e5b-ba8c-3b96521bdcdb"
+      Hint: Content
+      Value: |
+        <p>Based on the Digital Asset approach, AVEVA&rsquo;s software solutions blend tight application integration with a flexible, open framework to accommodate information from all sources, both AVEVA&rsquo;s and third-party. They support every stage of the asset life cycle.</p>
+        <p>For even greater power, a number of solutions are integrated into solution suites for different stages of the asset life cycle. They all support the creation and use of a Digital Asset for increased project predictability or operational reliability.</p>
+        <hr>
+        <h2>INTEGRATED ENGINEERING &amp; DESIGN<img style="width: 200px; float: right; height: 170px; border: 0px solid;" alt="Digital Asset - Integrated Engineering &amp; Design solution" src="-/media/1CEE69D5FE8D46AFBD2CFBE3A1ED2D17.ashx?la=en"></h2>
+        <p><strong>Digital Asset - Integrated Engineering &amp; Design solution</strong></p>
+        <p>The Integrated Engineering &amp; Design (IE&amp;D) solution suite tightly integrates engineering, design and data capture applications for EPCs, Owner Operators and shipbuilders. It dramatically improves design and engineering process efficiency for major capital projects, as well as for asset modification and revamps.</p>
+        <p>AVEVA&rsquo;s unique 'Compare&nbsp;&amp; Update' and 'Change Highlighting' functionalities enable the various project disciplines to easily and dynamically share design and engineering information at every phase in the process, helping to control the iterative design spiral in order to meet project schedules and improve the quality of deliverables.</p>
+        <p>A typical IE&amp;D solution configuration might consist of the following integrated applications:</p>
+        <table style="width: 100%; margin-bottom: 0px;">
+            <tbody>
+                <tr>
+                    <td style="text-align: left; width: 50%; vertical-align: top;">
+                    <p><a href="#" class="more fancy">AVEVA Everything3D</a>&trade; </p>
+                    <p><a href="#" class="more fancy">AVEVA Diagrams</a>&trade;</p>
+                    <p><a href="#" class="more fancy">AVEVA Engineering</a>&trade;</p>
+                    </td>
+                    <td style="text-align: left; width: 50%; vertical-align: top;">
+                    <p><a href="#" class="more fancy">AVEVA Bocad Steel</a>&trade;</p>
+                    <p><a href="#" class="more fancy">AVEVA Electrical</a>&trade;</p>
+                    <p><a href="#" class="more fancy">AVEVA Instrumentation</a>&trade;</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>For shipbuilders an IE&amp;D solution can be configured with dedicated applications for their specialist needs. Any initial IE&amp;D deployment can be readily extended with additional self-integrating applications.</p>
+        <hr>
+        <h2>ENTERPRISE RESOURCE MANAGEMENT<img style="width: 200px; float: right; height: 176px; border: 0px solid;" alt="Digital Asset - Enterprise Resource Management solution" src="-/media/82D0E0D440704B64AD3CDD55E00281DE.ashx?la=en"></h2>
+        <p><strong>Digital Asset - Enterprise Resource Management solution</strong></p>
+        <p>The Enterprise Resource Management (ERM) solution suite offers a complete resource management solution for EPCs and shipbuilders. Based on flexible, industry-proven technology, AVEVA ERM&trade; uses its advanced graphical user interface to deliver a highly productive and easy to use solution.</p>
+        <p>Its stand-alone products enable progressive deployment, with measurable ROI at every step and maximum business benefit when fully integrated. As a complete solution, it enables efficient planning and execution through every stage of a marine or plant project and optimum management of multiple projects to create significant competitive advantage.</p>
+        <p>A typical ERM configuration might consist of the following integrated solutions:</p>
+        <table style="width: 100%; margin-bottom: 0px;">
+            <tbody>
+                <tr>
+                    <td style="text-align: left; width: 40%; vertical-align: top;">
+                    <ul>
+                        <li>Material Management </li>
+                        <li>Planning </li>
+                    </ul>
+                    </td>
+                    <td style="text-align: left; width: 60%; vertical-align: top;">
+                    <ul>
+                        <li>Catalogue and Specification Management </li>
+                        <li>Construction Management </li>
+                    </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p><a href="#" class="more fancy">AVEVA ERM</a></p>
+        <hr>
+        <h2>DIGITAL INFORMATION HUB&trade; SOLUTIONS</h2>
+        <p>AVEVA offers a range of information management solutions to meet the needs of different users at different points in the asset life cycle. These solutions are based on the unique AVEVA NET&trade; technology, creating an open environment that provides access to information regardless of the application source. Each solution delivers the appropriate level of information access, validation and control to support critical project and operational activities. The result is a single, trusted source of information that reduces risk through rapid and better-informed decision making.</p>
+        <p>AVEVA offers six Digital Information Hub solutions:<img style="width: 260px; float: right; height: 193px; border: 0px solid;" alt="Digital Asset - Digital Information Hub solutions" src="-/media/10A85E603F474708A84FC5132C2BD847.ashx?la=en"></p>
+        <ul>
+            <li>Project Decision Support </li>
+            <li>Construction Management </li>
+            <li>Progressive Handover </li>
+            <li>Asset Life Cycle Information Management </li>
+            <li>Control of Work </li>
+            <li>Asset Visualisation </li>
+        </ul>
+        <p><a href="#" class="more">AVEVA's enterprise products</a></p>

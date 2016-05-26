@@ -17,7 +17,9 @@ Languages:
       Hint: RightColumn
       Type: Treelist
       Value: |
-        {85CF4A18-EF03-4246-8A64-6EAC57E8E853}
+        {D8C63EEA-3B4D-401D-96AB-D746CE291C60}
+        {5905D2A3-8591-4FAD-BDFE-63D495291491}
+        {2B611BFA-EB10-4D6E-96C3-2C36720A7DCB}
         {EFA17A52-9514-4046-9798-F05B5D9A5231}
     - ID: "1b7fbe2d-2acd-4f78-a35e-f1d0346a22e7"
       Hint: Date
@@ -31,6 +33,9 @@ Languages:
       Value: |
         {C0F57357-BF4F-4621-B25A-F359148AFDE1}
         {55E21BDF-F7FF-4CBA-9371-5E5AD57A8ECF}
+        {19A2E9D3-A537-4EB2-891A-58010C617AEC}
+        {13601E16-BB96-470C-A919-82322C636149}
+        {B94846B3-779A-49DD-B9AD-AACD0ED1FCA3}
     - ID: "62b0fd80-2fb0-4f70-838f-588556bcf512"
       Hint: Logo
       Value: "<image mediaid=\"{0D8E3214-6956-462C-8678-A297E9D2C071}\" alt=\"logo\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
@@ -49,3 +54,4 @@ Languages:
       Value: |
         {23816F70-128F-4C25-8842-235D264ACA63}
         {7DECDCDF-680D-45E1-BEB6-5FCCFBC39BA8}
+        {661696BB-8162-440B-9114-42D865390ECF}
