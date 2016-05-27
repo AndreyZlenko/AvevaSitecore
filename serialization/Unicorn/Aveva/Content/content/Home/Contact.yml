@@ -9,12 +9,23 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0e1b6d97-513a-42d3-9364-afd70da58ab2"
+      Hint: RightColumn
+      Type: Treelist
+      Value: "{D8C63EEA-3B4D-401D-96AB-D746CE291C60}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160524T135053Z
     - ID: "359f846e-0435-411f-b04d-89f07e598d15"
       Hint: Name
       Value: Contact
+    - ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
+      Hint: HeadImage
+      Value: "<image mediaid=\"{DF3EE8F5-C56A-41FB-8B82-75C1E0529F44}\" alt=\"Contact\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
     - ID: "b816c9fe-5193-42f4-a3c7-a2ecaa7e1955"
       Hint: Name
       Value: Contact
+    - ID: "faa01c3d-f253-4633-a562-b1c1f530d678"
+      Hint: CentralColumn
+      Type: Treelist
+      Value: "{D82AC909-27AF-4AAB-813B-6682CA970D7B}"

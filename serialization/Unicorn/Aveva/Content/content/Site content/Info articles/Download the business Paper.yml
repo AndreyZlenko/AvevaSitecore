@@ -1,0 +1,25 @@
+﻿---
+ID: "a164ba58-8597-4a2f-a72e-497abbfdf201"
+Parent: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Info articles/Download the business Paper
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p><a href="-/media/1AAA6E8991A0442C8D76C355743079A6.ashx?la=en" target="_blank" title="Downloads pdf document in a new window"><img height="86" alt="Download" width="200" src="-/media/E8541EACCA354E4D973E6386A1C5CA08.ashx?h=86&amp;w=200&amp;la=en" style="height: 86px; width: 200px;"><br>
+        <img alt="Bringing Information to Life" src="-/media/EEDD3A5465FD41D08CBABF141F0738C7.ashx?h=276&amp;w=200&amp;la=en" style="height: 276px; width: 200px; border-width: 0px; border-style: solid;"></a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T112721Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: "Download the Paper!"

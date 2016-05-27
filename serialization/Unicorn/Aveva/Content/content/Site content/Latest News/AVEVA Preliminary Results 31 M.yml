@@ -12,6 +12,7 @@ Languages:
     - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
       Hint: Content
       Value: |
+        <a class="title" href="#">AVEVA Group plc Preliminary Results for the year ended 31 March 2016 </a>
         <p class="news-archiv">AVEVA Group plc Preliminary Results for the year ended 31 March 2016</p>
         <a class="more" title="Go to AVEVA Press Releases" href="#">More news</a>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
@@ -22,4 +23,4 @@ Languages:
       Value: sitecore\admin
     - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
       Hint: Topic
-      Value: AVEVA Group plc Preliminary Results for the year ended 31 March 2016 
+      Value: Latest News

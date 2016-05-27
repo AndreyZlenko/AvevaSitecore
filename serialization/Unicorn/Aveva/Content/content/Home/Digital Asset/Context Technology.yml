@@ -9,9 +9,28 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0e1b6d97-513a-42d3-9364-afd70da58ab2"
+      Hint: RightColumn
+      Type: Treelist
+      Value: |
+        {C4B500EC-1A19-43E6-AF02-6F60088F253B}
+        {A164BA58-8597-4A2F-A72E-497ABBFDF201}
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160525T150754Z
     - ID: "359f846e-0435-411f-b04d-89f07e598d15"
       Hint: Name
       Value: Context Technology
+    - ID: "43030e24-de97-43fe-a950-1171330b5669"
+      Hint: LeftColumn
+      Type: Treelist
+      Value: "{8CB142B2-1B5D-496D-8F6F-BAB9D3ED359E}"
+    - ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
+      Hint: HeadImage
+      Value: "<image mediaid=\"{2AF258A0-95FD-4CB8-A217-877396DF7A8A}\" alt=\"Context Technology\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
+    - ID: "faa01c3d-f253-4633-a562-b1c1f530d678"
+      Hint: CentralColumn
+      Type: Treelist
+      Value: |
+        {14D6F994-6CB0-4147-A10C-D96A8635B573}
+        {C8534AC8-9761-41B7-B3E4-548B829C5108}

@@ -12,8 +12,9 @@ Languages:
     - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
       Hint: Content
       Value: |
+        <a class="title" href="#">AVEVA FabTrol Steel Fabrication Roadshow - California, USA</a>
         <p>Join AVEVA FabTrol for the Steel Fabrication Roadshow in California.</p>
-        <a class="more" title="See all events">More Events</a>
+        <a class="more" title="See all events" href="#">More Events</a>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160526T205017Z
@@ -22,4 +23,4 @@ Languages:
       Value: sitecore\admin
     - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
       Hint: Topic
-      Value: "AVEVA FabTrol Steel Fabrication Roadshow - California, USA"
+      Value: Events

@@ -9,9 +9,28 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0e1b6d97-513a-42d3-9364-afd70da58ab2"
+      Hint: RightColumn
+      Type: Treelist
+      Value: "{65ADB4F9-65BD-4514-8CB3-C474BC561484}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20160525T150744Z
     - ID: "359f846e-0435-411f-b04d-89f07e598d15"
       Hint: Name
       Value: Strategies
+    - ID: "43030e24-de97-43fe-a950-1171330b5669"
+      Hint: LeftColumn
+      Type: Treelist
+      Value: |
+        {19A2E9D3-A537-4EB2-891A-58010C617AEC}
+        {557747FA-2D23-4E5C-B0DB-899B9DEE03C4}
+        {3913522E-D8F8-425E-95C7-637C2440F626}
+        {B786BB1D-85A5-4B14-93ED-5E42986DB681}
+    - ID: "9a7c59e0-910c-4ea4-8699-c9c600252809"
+      Hint: HeadImage
+      Value: "<image mediaid=\"{2AF258A0-95FD-4CB8-A217-877396DF7A8A}\" alt=\"Strategies\" height=\"\" width=\"\" hspace=\"\" vspace=\"\" />"
+    - ID: "faa01c3d-f253-4633-a562-b1c1f530d678"
+      Hint: CentralColumn
+      Type: Treelist
+      Value: "{CB740ED7-6340-4C60-BC35-0D92864249A7}"

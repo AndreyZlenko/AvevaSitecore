@@ -1,0 +1,25 @@
+﻿---
+ID: "c4b500ec-1a19-43e6-af02-6f60088f253b"
+Parent: "e8a0f984-e6c9-4cc4-b2b4-3b2d20ba37f3"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Video Info/Design in context
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p>
+        <iframe width="200" height="150" src="http://www.youtube.com/embed/Ii0PKHapUqo?rel=0&amp;wmode=opaque" frameborder="0"></iframe></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T112040Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: Watch the Video

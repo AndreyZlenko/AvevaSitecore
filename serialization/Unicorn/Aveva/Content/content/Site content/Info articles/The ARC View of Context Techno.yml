@@ -1,0 +1,27 @@
+﻿---
+ID: "8cb142b2-1b5d-496d-8f6f-bab9d3ed359e"
+Parent: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Info articles/The ARC View of Context Technology
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <p><a href="-/media/1AAA6E8991A0442C8D76C355743079A6.ashx" target="_blank" title="Download the ARC View">
+        <img height="276" alt="Download the ARC View" width="200" src="-/media/30268D3A33A34A55997D352EB6A015CA.ashx?h=256&amp;w=200&amp;la=en" style="height: 256px; width: 200px;"></a></p>
+        <p>'Both EPCs and owner-operators benefit substantially from an information platform that provides access to engineering, construction, and operational information that spans the CAPEX-to-OPEX life cycle.'</p>
+        <p><a href="#" class="button2">Download</a></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T111430Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: The ARC View of Context Technology

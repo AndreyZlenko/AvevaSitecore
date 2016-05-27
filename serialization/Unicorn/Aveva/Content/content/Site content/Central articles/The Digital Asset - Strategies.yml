@@ -1,0 +1,33 @@
+﻿---
+ID: "cb740ed7-6340-4c60-bc35-0d92864249a7"
+Parent: "22481594-1eb0-4b2c-86f5-fe066ba3d162"
+Template: "0dda8ad0-27b0-49f1-acd1-8bcf0d9e9cf2"
+Path: "/sitecore/content/Site content/Central articles/The Digital Asset - Strategies"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T105916Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "609f6fbc-5e0a-434d-a69c-299392199e2b"
+      Hint: Topic
+      Value: "The Digital Asset - Strategies"
+    - ID: "d25693a5-813e-4e5b-ba8c-3b96521bdcdb"
+      Hint: Content
+      Value: |
+        <p>AVEVA&rsquo;s expertise lies in the quality and innovation of our software and service, as well as the knowledge of the industries we serve. With nearly 50 years of experience in the process plant, power and marine industries, we understand the unique needs of our customers and our solutions are focused on those industries that we know best.</p>
+        <p>AVEVA&rsquo;s Digital Asset approach supports three business strategies that embrace the whole of the asset life cycle from design through to decommissioning.</p>
+        <p><img style="margin-bottom: 10px; vertical-align: middle; border: 0px solid;" alt="The Digital Asset" src="-/media/506154AA6C61480697B2265F1BB0F1A3.ashx?h=248&amp;w=450&amp;la=en"></p>
+        <p>AVEVA&rsquo;s strategies to realise maximum efficiency for CAPEX includes Integrated Project Execution for EPCs and Integrated Shipbuilding for shipyards. For Owner Operators our Operations Integrity Management strategy supports risk reduction and improved reliability on the OPEX side of the life cycle.</p>
+        <h2>Integrated Project Execution for EPCs</h2>
+        <p>The Integrated Project Execution (IPE) strategy employs best practice standards to improve on-schedule completion and the quality of deliverables for major capital projects. For example, the ability to access project data from across all engineering disciplines allows efficient control, communication and response to change and inconsistencies, enabling business processes to collaborate in a highly efficient way. This information-centric Digital Asset approach is helping EPCs to improve their competitiveness and profitability, from initial concept through handover.</p>
+        <h2>Integrated Shipbuilding for Shipyards</h2>
+        <p>AVEVA offers the most complete solution for integrating all aspects of the shipbuilding process, enabling effective information sharing and workflow management. By creating a trusted and open Digital Asset, AVEVA&rsquo;s Integrated Shipbuilding strategy delivers maximum capability and effective collaboration within the shipyard and across globally distributed suppliers. Integrated Shipbuilding provides the insight and predictability that shipyards need to meet demanding schedules for their complex vessel and offshore projects.</p>
+        <h2>Operations Integrity Management for Owner Operators</h2>
+        <p>At the centre of an Operations Integrity Management (OIM) strategy is the Digital Asset, connecting capabilities and processes to enhance operational reliability. Removing the barriers between information silos is crucial to a successful OIM strategy, improving information quality in order to reduce rework and risk. AVEVA&rsquo;s OIM strategy ensures that the right information is always available to Owner Operators to support the countless decisions made throughout the life cycle of their assets.</p>

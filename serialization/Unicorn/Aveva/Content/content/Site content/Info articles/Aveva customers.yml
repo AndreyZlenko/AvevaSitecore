@@ -1,0 +1,36 @@
+﻿---
+ID: "65adb4f9-65bd-4514-8cb3-c474bc561484"
+Parent: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
+Template: "0dda8ad0-27b0-49f1-acd1-8bcf0d9e9cf2"
+Path: /sitecore/content/Site content/Info articles/Aveva customers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T110525Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "d25693a5-813e-4e5b-ba8c-3b96521bdcdb"
+      Hint: Content
+      Value: |
+        <table style="border-right-width: 20px; border-right-style: solid; border-right-color: #eef2f7; border-left-width: 20px; border-left-style: solid; border-left-color: #eef2f7; width: 100%; background-color: #eef2f7;">
+            <tbody>
+                <tr>
+                    <td>
+                    <h1 class="blue">100%</h1>
+                    <h2 style="text-transform: none;">...of the top energy companies are AVEVA customers</h2>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <h1 class="blue">90%</h1>
+                    <h2 style="text-transform: none;">...of the top 10 global shipyards are AVEVA customers</h2>
+                    </td>
+                </tr>
+            </tbody>
+        </table>

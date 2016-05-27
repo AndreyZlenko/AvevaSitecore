@@ -1,0 +1,32 @@
+﻿---
+ID: "5bc0afe2-5eb2-48f8-8d59-5eba63b34aed"
+Parent: "bbdf1c24-74a6-4619-9a45-4b461c52e848"
+Template: "f78bce3b-30f5-4989-8d49-e5e23faa3593"
+Path: /sitecore/content/Site content/Info articles/Follow AVEVA
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f8fd3a-332c-4cf2-aeac-9c202ffc821b"
+      Hint: Content
+      Value: |
+        <div class="block_container" style="margin: 0px 0px 20px; width: 180px;">
+        <div class="row2_container">
+        <div class="row2_box1" style="padding: 0px; width: 63px;"><a href="https://twitter.com/AVEVAGroup" target="_blank"><img style="width: 50px; height: 50px; border: 0px solid;" alt="Follow AVEVA on Twitter" src="/~/media/Aveva/English/Images/Icons/Twitter_128x128.png?h=60&amp;w=60&amp;as=1&amp;la=en"></a></div>
+        <div class="row2_box1" style="padding: 0px; width: 63px;"><a href="http://www.youtube.com/avevagroup" target="_blank"><img style="width: 50px; height: 50px; border: 0px solid;" alt="Follow AVEVA on YouTube" src="/~/media/Aveva/English/Images/Icons/Youtube_128x128.png?h=60&amp;w=60&amp;as=1&amp;la=en"></a></div>
+        <div class="row2_box1" style="padding: 0px; width: 63px;"><a href="http://www.linkedin.com/company/aveva" target="_blank"><img style="width: 50px; height: 50px; border: 0px solid;" alt="Follow AVEVA on LinkedIn" src="/~/media/Aveva/English/Images/Icons/linkedin_60x60.png?la=en"></a></div>
+        </div>
+        <div style="clear: left;">&nbsp;</div>
+        </div>
+        <a class="more" href="/en/Media-Centre/Videos.aspx">Featured AVEVA Videos</a>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T114033Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "ed2c2476-7cc3-4346-b2d8-366d140ac87d"
+      Hint: Topic
+      Value: "Follow AVEVA!"

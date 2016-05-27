@@ -1,0 +1,26 @@
+﻿---
+ID: "14d6f994-6cb0-4147-a10c-d96a8635b573"
+Parent: "22481594-1eb0-4b2c-86f5-fe066ba3d162"
+Template: "0dda8ad0-27b0-49f1-acd1-8bcf0d9e9cf2"
+Path: /sitecore/content/Site content/Central articles/Context Technology
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T110859Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "609f6fbc-5e0a-434d-a69c-299392199e2b"
+      Hint: Topic
+      Value: Context Technology
+    - ID: "d25693a5-813e-4e5b-ba8c-3b96521bdcdb"
+      Hint: Content
+      Value: |
+        <p>AVEVA's Information Management technology unlocks immense value from the <a href="#">Digital Asset</a> by providing access to the right information, in the right place, at the right time, to improve decision-making speed and accuracy.</p>
+        <p>Context technology puts this rich information resource literally at the fingertips of the designer or engineer. Direct &lsquo;in-context&rsquo; retrieval of relevant content from the Digital Asset speeds up their decision-making, without having to leave their standard applications.</p>
+        <p><a href="#" class="fancy">AVEVA E3D</a>, <a href="#" class="fancy">AVEVA Diagrams</a> and <a href="#">AVEVA Engineering</a> are the first products to benefit from this new technology, that embeds a multi-format document viewer to give them a window into the Digital Asset.</p>

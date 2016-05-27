@@ -1,0 +1,20 @@
+﻿---
+ID: "35e41869-9ae9-4d49-b675-fa5baf5ba6b5"
+Parent: "caa51980-375c-460f-a9a7-dcb06c5e07b1"
+Template: "b1a74225-a7c6-4f8e-9398-ac656504f554"
+Path: /sitecore/content/Home/Test
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T123651Z
+    - ID: "359f846e-0435-411f-b04d-89f07e598d15"
+      Hint: Name
+      Value: Test
+    - ID: "b816c9fe-5193-42f4-a3c7-a2ecaa7e1955"
+      Hint: Name
+      Value: Test

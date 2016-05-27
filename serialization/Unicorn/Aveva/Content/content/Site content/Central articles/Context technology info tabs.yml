@@ -1,0 +1,48 @@
+﻿---
+ID: "c8534ac8-9761-41b7-b3e4-548b829c5108"
+Parent: "22481594-1eb0-4b2c-86f5-fe066ba3d162"
+Template: "0dda8ad0-27b0-49f1-acd1-8bcf0d9e9cf2"
+Path: /sitecore/content/Site content/Central articles/Context technology info tabs
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160527T111211Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: sitecore\admin
+    - ID: "d25693a5-813e-4e5b-ba8c-3b96521bdcdb"
+      Hint: Content
+      Value: |
+        <div id="tabs">
+        <ul class="tab-nav">
+            <li class="active"><a href="#tab-1" class="tab-nav-control">How it looks</a></li>
+            <li><a href="#tab-2" class="tab-nav-control">How it works</a></li>
+        </ul>
+        <div class="tab-content" id="tab-1" style="display: block;">
+        <p>AVEVA has implemented Context Technology as <strong>Design in Context</strong>. This example shows Design in Context for the 3D designer:</p>
+        <p style="text-align: center;"><a href="-/media/1F309D7430534DCDB04B664380662EAB.ashx?la=en" target="_blank" title="View in a new window"><img alt="Design in Context" src="-/media/1F309D7430534DCDB04B664380662EAB.ashx?h=276&amp;w=420&amp;la=en" style="height: 276px; width: 420px; vertical-align: middle; border-width: 0px; border-style: solid;"></a></p>
+        <p>A selected object's data sheet or other information can be quickly displayed to support a design decision.</p>
+        <h2>Learn more:</h2>
+        <p><a href="#" class="button_webinar fancy">AVEVA E3D</a> <a href="#" class="button_webinar fancy">AVEVA Diagrams</a> <a href="#">AVEVA Engineering</a></p>
+        </div>
+        <div class="tab-content" id="tab-2" style="display: none;">
+        <p>Design in Context integrates <a href="#" class="fancy">AVEVA NET</a> into the engineering and design tools. It makes contextually linked information about any selected tagged object immediately available to the user.</p>
+        <p>Nearly half of the information project engineers and designers need is created and managed outside of the design environment. So they can spend up to 20% of their time gathering and reviewing it.</p>
+        <p>Now a designer can quickly review all available related information, such as:</p>
+        <ul>
+            <li>Technical specifications</li>
+            <li>Applicable standards</li>
+            <li>Design guides</li>
+            <li>Vendor documentation</li>
+            <li>Procurement status</li>
+        </ul>
+        <p>The result is better decision making, fewer errors and a more efficient project.</p>
+        <h2>Learn more:</h2>
+        <p><a href="#" class="button_webinar fancy">AVEVA E3D</a> <a href="#" class="button_webinar fancy">AVEVA Diagrams</a> <a href="#" class="button_webinar fancy">AVEVA Engineering</a></p>
+        </div>
+        </div>
