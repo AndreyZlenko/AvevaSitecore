@@ -40,9 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ContentColumnCentralModel.cs" />
-    <Compile Include="ContentColumnLeftModel.cs" />
-    <Compile Include="ContentColumnRightModel.cs" />
     <Compile Include="Content\BaseModel.cs" />
     <Compile Include="Content\BoxModel.cs" />
     <Compile Include="Content\ListModel.cs" />
